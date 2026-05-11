@@ -3,9 +3,10 @@
 from __future__ import annotations
 
 import argparse
+import json
+from pathlib import Path
 
-from vocabulary_builder.content import PHRASES, WORDS
-from vocabulary_builder.state import build_daily_pack
+from vocabulary_builder.state import build_daily_pack, load_state, record_pack
 from vocabulary_builder.telegram import send
 
 
@@ -33,24 +34,33 @@ def format_message(pack) -> str:
     return "\n".join(lines)
 
 
+def load_payload(payload_file: str) -> tuple[list[dict[str, str]], list[dict[str, str]]]:
+    payload = json.loads(Path(payload_file).read_text())
+    return payload["words"], payload["phrases"]
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     subparsers = parser.add_subparsers(dest="command", required=True)
 
-    subparsers.add_parser("build-message")
-    send_parser = subparsers.add_parser("send-daily")
+    build_parser = subparsers.add_parser("build-message")
+    build_parser.add_argument("--payload-file", required=True)
+
+    send_parser = subparsers.add_parser("send-curated")
+    send_parser.add_argument("--payload-file", required=True)
     send_parser.add_argument("--dry-run", action="store_true")
 
     args = parser.parse_args()
+    state = load_state()
+    words, phrases = load_payload(args.payload_file)
+    pack = build_daily_pack(words, phrases, state)
+    message = format_message(pack)
 
     if args.command == "build-message" or args.dry_run:
-        pack = build_daily_pack(WORDS, PHRASES, persist=False)
-        message = format_message(pack)
         print(message)
         return 0
 
-    pack = build_daily_pack(WORDS, PHRASES)
-    message = format_message(pack)
     send(message)
+    record_pack(pack, state)
     print("Sent daily vocabulary message to Telegram.")
     return 0
