@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "equanimity",
+      "meaning": "mental calmness and composure, especially in a difficult situation",
+      "example": "She handled the unexpected criticism with remarkable equanimity."
+    },
+    {
+      "term": "prescient",
+      "meaning": "showing accurate knowledge of what will happen before it occurs",
+      "example": "His prescient warning about demand helped the company avoid excess inventory."
+    },
+    {
+      "term": "fastidious",
+      "meaning": "very attentive to accuracy, cleanliness, or small details",
+      "example": "Our editor is fastidious about checking every citation before publication."
+    },
+    {
+      "term": "recalcitrant",
+      "meaning": "stubbornly resistant to rules, instructions, or control",
+      "example": "The recalcitrant vendor refused to follow the new security requirements."
+    },
+    {
+      "term": "intractable",
+      "meaning": "extremely difficult to manage, solve, or change",
+      "example": "The scheduling conflict seemed intractable until both teams adjusted their deadlines."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "throw your weight around",
+      "meaning": "to use your authority or influence in an unfair or unpleasant way",
+      "example": "He started throwing his weight around as soon as he became a manager."
+    },
+    {
+      "term": "take it with a grain of salt",
+      "meaning": "to treat a claim with some doubt rather than believing it completely",
+      "example": "Take that rumor with a grain of salt until the company makes an announcement."
+    },
+    {
+      "term": "pull your weight",
+      "meaning": "to do your fair share of the work",
+      "example": "Everyone needs to pull their weight if we want to finish by Friday."
+    },
+    {
+      "term": "draw a blank",
+      "meaning": "to be unable to remember something or find an answer",
+      "example": "I knew her name yesterday, but I completely drew a blank when we met."
+    },
+    {
+      "term": "sleep on it",
+      "meaning": "to wait until the next day before making a decision",
+      "example": "The offer sounds promising, but I want to sleep on it before I respond."
+    }
+  ]
+}

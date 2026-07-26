@@ -1,0 +1,11 @@
+{
+  "latest": "latest.json",
+  "archive_count": 1,
+  "archives": [
+    {
+      "file": "archive/2026-07-26_12pm-test.json",
+      "words": 5,
+      "phrases": 5
+    }
+  ]
+}
