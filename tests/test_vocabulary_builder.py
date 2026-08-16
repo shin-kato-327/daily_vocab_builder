@@ -50,7 +50,8 @@ class VocabularyBuilderTests(unittest.TestCase):
         message = format_message(pack)
         self.assertIn("5 new words", message)
         self.assertIn("5 American phrases / slang", message)
-        self.assertIn("5 review quizzes", message)
+        self.assertNotIn("review quizzes", message)
+        self.assertNotIn("Answers", message)
 
     def test_record_pack_persists_sent_history(self) -> None:
         with TemporaryDirectory() as tmpdir:

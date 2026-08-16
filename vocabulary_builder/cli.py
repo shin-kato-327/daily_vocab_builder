@@ -21,16 +21,6 @@ def format_message(pack) -> str:
         lines.append(f"{idx}. {phrase['term']} — {phrase['meaning']}")
         lines.append(f"   Example: {phrase['example']}")
 
-    lines.extend(["", "5 review quizzes"])
-    for quiz in pack.quizzes:
-        lines.append(f"{quiz['number']}. What does \"{quiz['term']}\" mean?")
-        for option_idx, option in enumerate(quiz["options"]):
-            letter = "ABCD"[option_idx]
-            lines.append(f"   {letter}. {option}")
-
-    lines.extend(["", "Answers"])
-    for quiz in pack.quizzes:
-        lines.append(f"{quiz['number']}. {quiz['answer']} — {quiz['meaning']}")
     return "\n".join(lines)
 
 
