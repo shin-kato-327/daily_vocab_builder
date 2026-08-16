@@ -3,8 +3,9 @@ import json
 from pathlib import Path
 from tempfile import TemporaryDirectory
 import unittest
+from unittest.mock import patch
 
-from vocabulary_builder.cli import format_message, load_payload
+from vocabulary_builder.cli import format_message, load_payload, publish_feed
 from vocabulary_builder.state import DailyPack, build_daily_pack, load_state, record_pack
 
 
@@ -91,6 +92,17 @@ class VocabularyBuilderTests(unittest.TestCase):
             words, phrases = load_payload(str(payload_path))
             self.assertEqual(words[0]["term"], "lucid")
             self.assertEqual(phrases[0]["term"], "my bad")
+
+    def test_publish_feed_runs_configured_publisher(self) -> None:
+        with TemporaryDirectory() as tmpdir:
+            script = Path(tmpdir) / "publisher.sh"
+            script.write_text("#!/bin/sh\n")
+            payload = Path(tmpdir) / "payload.json"
+            payload.write_text("{}")
+            with patch.dict("os.environ", {"VOCAB_FEED_PUBLISHER": str(script)}):
+                with patch("vocabulary_builder.cli.subprocess.run") as run:
+                    publish_feed(str(payload))
+            run.assert_called_once_with([str(script), str(payload)], check=True)
 
 
 if __name__ == "__main__":

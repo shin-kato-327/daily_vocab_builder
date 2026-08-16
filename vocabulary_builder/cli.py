@@ -4,10 +4,23 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
+import subprocess
 from pathlib import Path
 
 from vocabulary_builder.state import build_daily_pack, load_state, record_pack
 from vocabulary_builder.telegram import send
+
+
+def publish_feed(payload_file: str) -> None:
+    configured = os.environ.get("VOCAB_FEED_PUBLISHER")
+    script = (
+        Path(configured)
+        if configured
+        else Path("/home/shinkato/workspace/daily_vocab_builder/scripts/publish_chatgpt_feed.sh")
+    )
+    if script.is_file():
+        subprocess.run([str(script), payload_file], check=True)
 
 
 def format_message(pack) -> str:
@@ -52,5 +65,6 @@ def main() -> int:
 
     send(message)
     record_pack(pack, state)
-    print("Sent daily vocabulary message to Telegram.")
+    publish_feed(args.payload_file)
+    print("Sent daily vocabulary message to Telegram and published the ChatGPT feed.")
     return 0
