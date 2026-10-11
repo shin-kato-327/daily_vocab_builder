@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "proleptic",
+      "meaning": "anticipating and addressing a possible objection or future event before it occurs",
+      "example": "Her proleptic explanation answered the budget concerns before anyone raised them."
+    },
+    {
+      "term": "overweening",
+      "meaning": "excessively confident, proud, or ambitious",
+      "example": "The founder's overweening confidence made him dismiss several valid warnings."
+    },
+    {
+      "term": "prudential",
+      "meaning": "guided by practical wisdom and careful consideration of risks",
+      "example": "Keeping six months of operating cash was a prudential decision, not a sign of pessimism."
+    },
+    {
+      "term": "caviling",
+      "meaning": "raising petty or unnecessary objections",
+      "example": "We need substantive feedback today, not caviling over minor formatting choices."
+    },
+    {
+      "term": "propound",
+      "meaning": "to present an idea or theory for others to consider",
+      "example": "The analyst propounded a simpler explanation for the sudden decline in sales."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "that's above my pay grade",
+      "meaning": "that decision or responsibility belongs to someone with more authority",
+      "example": "Approving a new regional office is above my pay grade, but I can prepare the cost estimate."
+    },
+    {
+      "term": "make bank",
+      "meaning": "to earn a large amount of money",
+      "example": "She made bank consulting during the holiday rush, then took January off."
+    },
+    {
+      "term": "rent-free",
+      "meaning": "constantly occupying someone's thoughts, often despite being unwelcome",
+      "example": "That awkward comment has been living rent-free in my head all week."
+    },
+    {
+      "term": "weird flex",
+      "meaning": "an odd or questionable thing to boast about",
+      "example": "Bragging that you never take vacation is a weird flex."
+    },
+    {
+      "term": "go pound sand",
+      "meaning": "a blunt way to tell someone to go away or reject an unreasonable demand",
+      "example": "When the scammer demanded another fee, she told him to go pound sand."
+    }
+  ]
+}
