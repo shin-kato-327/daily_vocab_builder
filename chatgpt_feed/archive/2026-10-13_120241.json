@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "disincentivize",
+      "meaning": "to make an action less appealing by reducing its rewards or increasing its costs",
+      "example": "Charging a small fee for last-minute cancellations may disincentivize people from reserving slots they do not use."
+    },
+    {
+      "term": "foreground",
+      "meaning": "to make an idea or issue especially prominent or important",
+      "example": "The revised proposal foregrounds customer privacy instead of treating it as a minor detail."
+    },
+    {
+      "term": "crystallize",
+      "meaning": "to make an idea, plan, or understanding clear and definite",
+      "example": "The pilot results helped crystallize our strategy for the national rollout."
+    },
+    {
+      "term": "countenance",
+      "meaning": "to approve of or tolerate something, especially improper behavior",
+      "example": "The director would not countenance skipping the safety review to meet an arbitrary deadline."
+    },
+    {
+      "term": "externalize",
+      "meaning": "to shift a cost, problem, or responsibility onto someone else",
+      "example": "A cheap supplier may externalize its environmental costs onto the surrounding community."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "big ask",
+      "meaning": "a request that requires a great deal of effort, time, or sacrifice",
+      "example": "Finishing the entire migration by Friday is a big ask, even with extra help."
+    },
+    {
+      "term": "dead to rights",
+      "meaning": "caught with clear proof of wrongdoing and no convincing excuse",
+      "example": "The security footage caught the thief dead to rights."
+    },
+    {
+      "term": "work like a charm",
+      "meaning": "to work perfectly or produce the desired result very easily",
+      "example": "Restarting the router worked like a charm, and the connection came back immediately."
+    },
+    {
+      "term": "cool your jets",
+      "meaning": "to calm down, be patient, or stop acting too quickly",
+      "example": "Cool your jets—we still need legal to approve the announcement before it goes out."
+    },
+    {
+      "term": "pass the buck",
+      "meaning": "to shift responsibility or blame to someone else",
+      "example": "Instead of passing the buck, the manager admitted that the missed deadline was his responsibility."
+    }
+  ]
+}

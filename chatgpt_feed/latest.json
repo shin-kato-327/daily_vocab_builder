@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "conciliate",
-      "meaning": "to restore goodwill or reduce hostility through a considerate action or approach",
-      "example": "The director met with the frustrated vendors to conciliate them before renegotiating the contract."
+      "term": "disincentivize",
+      "meaning": "to make an action less appealing by reducing its rewards or increasing its costs",
+      "example": "Charging a small fee for last-minute cancellations may disincentivize people from reserving slots they do not use."
     },
     {
-      "term": "febrile",
-      "meaning": "feverishly intense, nervous, or active",
-      "example": "The newsroom took on a febrile atmosphere as election results began arriving."
+      "term": "foreground",
+      "meaning": "to make an idea or issue especially prominent or important",
+      "example": "The revised proposal foregrounds customer privacy instead of treating it as a minor detail."
     },
     {
-      "term": "recrudesce",
-      "meaning": "to break out or become active again after a period of improvement",
-      "example": "The dispute may recrudesce if both departments stop sharing their budget data."
+      "term": "crystallize",
+      "meaning": "to make an idea, plan, or understanding clear and definite",
+      "example": "The pilot results helped crystallize our strategy for the national rollout."
     },
     {
-      "term": "supercilious",
-      "meaning": "behaving as though you are superior to other people",
-      "example": "His supercilious tone alienated colleagues who had tried to help him."
+      "term": "countenance",
+      "meaning": "to approve of or tolerate something, especially improper behavior",
+      "example": "The director would not countenance skipping the safety review to meet an arbitrary deadline."
     },
     {
-      "term": "stentorian",
-      "meaning": "extremely loud and powerful in sound, especially describing a voice",
-      "example": "Her stentorian announcement carried across the crowded terminal without a microphone."
+      "term": "externalize",
+      "meaning": "to shift a cost, problem, or responsibility onto someone else",
+      "example": "A cheap supplier may externalize its environmental costs onto the surrounding community."
     }
   ],
   "phrases": [
     {
-      "term": "go on the fritz",
-      "meaning": "to stop working properly, usually because of a mechanical or electronic problem",
-      "example": "Our office printer always seems to go on the fritz right before a major deadline."
+      "term": "big ask",
+      "meaning": "a request that requires a great deal of effort, time, or sacrifice",
+      "example": "Finishing the entire migration by Friday is a big ask, even with extra help."
     },
     {
-      "term": "lay an egg",
-      "meaning": "to fail badly or give a disappointing performance",
-      "example": "The comedian laid an egg at the first show but won over the late-night crowd."
+      "term": "dead to rights",
+      "meaning": "caught with clear proof of wrongdoing and no convincing excuse",
+      "example": "The security footage caught the thief dead to rights."
     },
     {
-      "term": "sit on your hands",
-      "meaning": "to deliberately avoid taking action when action is needed",
-      "example": "We cannot sit on our hands while support requests continue to pile up."
+      "term": "work like a charm",
+      "meaning": "to work perfectly or produce the desired result very easily",
+      "example": "Restarting the router worked like a charm, and the connection came back immediately."
     },
     {
-      "term": "get your bell rung",
-      "meaning": "to be hit hard or badly shaken by a physical or figurative blow",
-      "example": "The company got its bell rung when its largest customer switched suppliers."
+      "term": "cool your jets",
+      "meaning": "to calm down, be patient, or stop acting too quickly",
+      "example": "Cool your jets—we still need legal to approve the announcement before it goes out."
     },
     {
-      "term": "out the wazoo",
-      "meaning": "in a very large quantity or to an excessive degree",
-      "example": "That new phone has advanced features out the wazoo, but most buyers use only a few."
+      "term": "pass the buck",
+      "meaning": "to shift responsibility or blame to someone else",
+      "example": "Instead of passing the buck, the manager admitted that the missed deadline was his responsibility."
     }
   ]
 }
