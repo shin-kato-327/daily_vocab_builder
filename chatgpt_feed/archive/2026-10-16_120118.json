@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "hortatory",
+      "meaning": "strongly encouraging or urging people to take action",
+      "example": "The director's hortatory memo asked every team to treat the security update as an immediate priority."
+    },
+    {
+      "term": "truculent",
+      "meaning": "aggressively defiant or eager to argue",
+      "example": "The discussion stalled when one participant became truculent and rejected every compromise."
+    },
+    {
+      "term": "rebarbative",
+      "meaning": "unpleasant, intimidating, or difficult to engage with",
+      "example": "The manual's rebarbative style made a straightforward setup process seem needlessly daunting."
+    },
+    {
+      "term": "pertinacious",
+      "meaning": "holding firmly to a purpose or belief despite obstacles",
+      "example": "Her pertinacious follow-up finally brought the neglected accessibility issue onto the roadmap."
+    },
+    {
+      "term": "irenic",
+      "meaning": "intended to promote peace or reconcile disagreements",
+      "example": "His irenic response lowered the tension and helped both departments return to the facts."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "come correct",
+      "meaning": "to arrive prepared and behave or speak appropriately",
+      "example": "If you're going to challenge the forecast in front of leadership, come correct with solid numbers."
+    },
+    {
+      "term": "run hot and cold",
+      "meaning": "to alternate unpredictably between enthusiasm and indifference",
+      "example": "The client has been running hot and cold on the redesign, so we haven't scheduled the launch yet."
+    },
+    {
+      "term": "work the refs",
+      "meaning": "to pressure decision-makers in hopes of influencing future judgments",
+      "example": "Both departments started working the refs before the budget committee had even reviewed the proposals."
+    },
+    {
+      "term": "step on a rake",
+      "meaning": "to make an avoidable mistake that causes an immediate problem",
+      "example": "We stepped on a rake by announcing the feature before confirming that support was ready."
+    },
+    {
+      "term": "get your sea legs",
+      "meaning": "to become comfortable and capable in a new or unfamiliar situation",
+      "example": "Give Maya a week to get her sea legs before assigning her the largest client account."
+    }
+  ]
+}
