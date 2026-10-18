@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "precarity",
-      "meaning": "a condition of ongoing insecurity or instability, especially in work, income, or living arrangements",
-      "example": "The report examines how unpredictable schedules contribute to financial precarity among hourly workers."
+      "term": "aporia",
+      "meaning": "a state of genuine uncertainty or difficulty in deciding what to believe or do",
+      "example": "The conflicting customer data left the team in a state of aporia about which feature to prioritize."
     },
     {
-      "term": "commensurable",
-      "meaning": "able to be compared or measured using a common standard",
-      "example": "The two proposals became commensurable once we calculated their total three-year costs."
+      "term": "casuistry",
+      "meaning": "clever but questionable reasoning used to justify a convenient conclusion",
+      "example": "Calling the hidden fee a service adjustment sounded more like casuistry than a real explanation."
     },
     {
-      "term": "construal",
-      "meaning": "a particular way of interpreting or understanding something",
-      "example": "Under a strict construal of the policy, even minor exceptions require written approval."
+      "term": "meliorative",
+      "meaning": "intended to improve a difficult or unsatisfactory situation",
+      "example": "The new refund policy is a meliorative step, though it does not solve every customer complaint."
     },
     {
-      "term": "optionality",
-      "meaning": "the value or advantage of keeping several future choices available",
-      "example": "A short-term lease gives the company more optionality while its hiring plans remain uncertain."
+      "term": "veridical",
+      "meaning": "truthful or accurately representing reality",
+      "example": "Before acting on the alert, we need to confirm that it is veridical rather than a monitoring error."
     },
     {
-      "term": "reflexivity",
-      "meaning": "a feedback effect in which beliefs or actions influence the situation being observed",
-      "example": "Market forecasts can create reflexivity when investors act on them and thereby move prices."
+      "term": "volitional",
+      "meaning": "resulting from a deliberate choice rather than an accident or external force",
+      "example": "Her career change was entirely volitional, not a response to layoffs or pressure from management."
     }
   ],
   "phrases": [
     {
-      "term": "do numbers",
-      "meaning": "to achieve impressive sales, views, or other measurable results",
-      "example": "That short product demo is doing numbers on social media."
+      "term": "take the air out of the room",
+      "meaning": "to suddenly drain the energy, excitement, or confidence from a group",
+      "example": "The unexpected budget cut took the air out of the room just as the team began celebrating."
     },
     {
-      "term": "crash out",
-      "meaning": "to lose control and act recklessly because of anger or stress",
-      "example": "He was frustrated, but his friends talked him down before he crashed out."
+      "term": "take a haircut",
+      "meaning": "to accept a financial loss or a reduction in value",
+      "example": "The investors took a haircut when the company was sold for less than expected."
     },
     {
-      "term": "it's giving",
-      "meaning": "it strongly suggests or has the style and energy of something",
-      "example": "That new office setup is giving cozy neighborhood coffee shop."
+      "term": "live rent-free in your head",
+      "meaning": "to occupy your thoughts repeatedly, often without deserving that much attention",
+      "example": "That awkward comment has been living rent-free in my head all week."
     },
     {
-      "term": "get sideways with",
-      "meaning": "to come into conflict or disagreement with someone",
-      "example": "I don't want to get sideways with the client over a minor formatting issue."
+      "term": "put meat on the bones",
+      "meaning": "to add useful detail or substance to a basic idea or plan",
+      "example": "The proposal has a solid outline, but we need cost estimates to put meat on the bones."
     },
     {
-      "term": "get the skinny",
-      "meaning": "to get the inside information or essential facts about something",
-      "example": "Call Maya to get the skinny on what happened in the budget meeting."
+      "term": "take a victory lap",
+      "meaning": "to publicly celebrate or draw attention to a success",
+      "example": "After the launch exceeded its target, the sales team took a well-earned victory lap."
     }
   ]
 }
