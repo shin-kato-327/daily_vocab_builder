@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "aporia",
-      "meaning": "a state of genuine uncertainty or difficulty in deciding what to believe or do",
-      "example": "The conflicting customer data left the team in a state of aporia about which feature to prioritize."
+      "term": "agglomerate",
+      "meaning": "to gather separate things into a cluster or compact mass",
+      "example": "Small delays can agglomerate into a serious backlog by the end of the quarter."
     },
     {
-      "term": "casuistry",
-      "meaning": "clever but questionable reasoning used to justify a convenient conclusion",
-      "example": "Calling the hidden fee a service adjustment sounded more like casuistry than a real explanation."
+      "term": "heuristic",
+      "meaning": "a practical shortcut or rule of thumb used to make decisions or solve problems",
+      "example": "As a quick heuristic, we prioritize requests that affect the most customers."
     },
     {
-      "term": "meliorative",
-      "meaning": "intended to improve a difficult or unsatisfactory situation",
-      "example": "The new refund policy is a meliorative step, though it does not solve every customer complaint."
+      "term": "teleological",
+      "meaning": "explaining something in terms of its purpose or intended result",
+      "example": "Her teleological argument judged every process by whether it improved the customer experience."
     },
     {
-      "term": "veridical",
-      "meaning": "truthful or accurately representing reality",
-      "example": "Before acting on the alert, we need to confirm that it is veridical rather than a monitoring error."
+      "term": "usurious",
+      "meaning": "charging an unfairly or excessively high rate of interest",
+      "example": "The owner rejected the loan because its usurious terms would strain the business."
     },
     {
-      "term": "volitional",
-      "meaning": "resulting from a deliberate choice rather than an accident or external force",
-      "example": "Her career change was entirely volitional, not a response to layoffs or pressure from management."
+      "term": "recrudescence",
+      "meaning": "the return of something unpleasant after a period of improvement or inactivity",
+      "example": "A recrudescence of payment fraud prompted the company to tighten its controls."
     }
   ],
   "phrases": [
     {
-      "term": "take the air out of the room",
-      "meaning": "to suddenly drain the energy, excitement, or confidence from a group",
-      "example": "The unexpected budget cut took the air out of the room just as the team began celebrating."
+      "term": "make a federal case out of it",
+      "meaning": "to treat a minor issue as if it were extremely serious",
+      "example": "I forgot to attach one file, but there is no need to make a federal case out of it."
     },
     {
-      "term": "take a haircut",
-      "meaning": "to accept a financial loss or a reduction in value",
-      "example": "The investors took a haircut when the company was sold for less than expected."
+      "term": "have a dog in the fight",
+      "meaning": "to have a personal interest in the outcome of a dispute or competition",
+      "example": "I do not have a dog in the fight, so I can evaluate both proposals fairly."
     },
     {
-      "term": "live rent-free in your head",
-      "meaning": "to occupy your thoughts repeatedly, often without deserving that much attention",
-      "example": "That awkward comment has been living rent-free in my head all week."
+      "term": "put one over on someone",
+      "meaning": "to deceive or trick someone successfully",
+      "example": "The seller tried to put one over on us by hiding the car's repair history."
     },
     {
-      "term": "put meat on the bones",
-      "meaning": "to add useful detail or substance to a basic idea or plan",
-      "example": "The proposal has a solid outline, but we need cost estimates to put meat on the bones."
+      "term": "take a flier",
+      "meaning": "to take a chance on something uncertain or risky",
+      "example": "We decided to take a flier on the small startup because its prototype looked promising."
     },
     {
-      "term": "take a victory lap",
-      "meaning": "to publicly celebrate or draw attention to a success",
-      "example": "After the launch exceeded its target, the sales team took a well-earned victory lap."
+      "term": "get a wild hair",
+      "meaning": "to develop a sudden, unusual urge to do something",
+      "example": "He got a wild hair and repainted the kitchen over the weekend."
     }
   ]
 }

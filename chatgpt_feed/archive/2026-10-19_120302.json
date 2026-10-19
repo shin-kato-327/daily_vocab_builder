@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "agglomerate",
+      "meaning": "to gather separate things into a cluster or compact mass",
+      "example": "Small delays can agglomerate into a serious backlog by the end of the quarter."
+    },
+    {
+      "term": "heuristic",
+      "meaning": "a practical shortcut or rule of thumb used to make decisions or solve problems",
+      "example": "As a quick heuristic, we prioritize requests that affect the most customers."
+    },
+    {
+      "term": "teleological",
+      "meaning": "explaining something in terms of its purpose or intended result",
+      "example": "Her teleological argument judged every process by whether it improved the customer experience."
+    },
+    {
+      "term": "usurious",
+      "meaning": "charging an unfairly or excessively high rate of interest",
+      "example": "The owner rejected the loan because its usurious terms would strain the business."
+    },
+    {
+      "term": "recrudescence",
+      "meaning": "the return of something unpleasant after a period of improvement or inactivity",
+      "example": "A recrudescence of payment fraud prompted the company to tighten its controls."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "make a federal case out of it",
+      "meaning": "to treat a minor issue as if it were extremely serious",
+      "example": "I forgot to attach one file, but there is no need to make a federal case out of it."
+    },
+    {
+      "term": "have a dog in the fight",
+      "meaning": "to have a personal interest in the outcome of a dispute or competition",
+      "example": "I do not have a dog in the fight, so I can evaluate both proposals fairly."
+    },
+    {
+      "term": "put one over on someone",
+      "meaning": "to deceive or trick someone successfully",
+      "example": "The seller tried to put one over on us by hiding the car's repair history."
+    },
+    {
+      "term": "take a flier",
+      "meaning": "to take a chance on something uncertain or risky",
+      "example": "We decided to take a flier on the small startup because its prototype looked promising."
+    },
+    {
+      "term": "get a wild hair",
+      "meaning": "to develop a sudden, unusual urge to do something",
+      "example": "He got a wild hair and repainted the kitchen over the weekend."
+    }
+  ]
+}
