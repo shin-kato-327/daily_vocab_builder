@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "precipitate",
+      "meaning": "to cause an event or situation to happen suddenly, often sooner than expected",
+      "example": "Announcing the policy without a transition plan could precipitate a wave of customer complaints."
+    },
+    {
+      "term": "misapprehend",
+      "meaning": "to understand something incorrectly",
+      "example": "I initially misapprehended the deadline and thought the draft was due next Friday."
+    },
+    {
+      "term": "crosscut",
+      "meaning": "to affect or extend across several different groups, areas, or issues",
+      "example": "Data privacy is a crosscutting concern that affects every product team."
+    },
+    {
+      "term": "commoditize",
+      "meaning": "to make a product or service difficult to distinguish from competing alternatives",
+      "example": "Standardized features may commoditize the market and force vendors to compete mainly on price."
+    },
+    {
+      "term": "reallocate",
+      "meaning": "to assign money, time, or other resources to a different purpose",
+      "example": "We reallocated two engineers to the migration after the security review uncovered more work."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "eat the frog",
+      "meaning": "to do the most difficult or unpleasant task first",
+      "example": "I ate the frog this morning and finished the budget forecast before checking email."
+    },
+    {
+      "term": "carry water for someone",
+      "meaning": "to support or do difficult work for someone, often without receiving much credit",
+      "example": "He keeps carrying water for the leadership team by defending decisions he did not make."
+    },
+    {
+      "term": "ring true",
+      "meaning": "to sound believable, sincere, or accurate",
+      "example": "Her explanation rang true because it matched what the customers had already told us."
+    },
+    {
+      "term": "go through the wringer",
+      "meaning": "to experience a very difficult, stressful, or exhausting situation",
+      "example": "The proposal went through the wringer before the legal and finance teams finally approved it."
+    },
+    {
+      "term": "get off the dime",
+      "meaning": "to stop delaying and take action",
+      "example": "We need to get off the dime and choose a vendor before the current contract expires."
+    }
+  ]
+}
