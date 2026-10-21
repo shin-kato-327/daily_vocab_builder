@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "performative",
+      "meaning": "done mainly to create an impression rather than to produce a genuine result",
+      "example": "Employees viewed the apology as performative because the company changed none of its policies."
+    },
+    {
+      "term": "prospective",
+      "meaning": "expected or likely to happen in the future",
+      "example": "We sent prospective clients a short guide before their first consultation."
+    },
+    {
+      "term": "de-risk",
+      "meaning": "to reduce the chance or potential impact of failure",
+      "example": "A limited pilot will help us de-risk the nationwide rollout."
+    },
+    {
+      "term": "prorate",
+      "meaning": "to divide or calculate an amount proportionally",
+      "example": "The landlord agreed to prorate the rent because we moved in halfway through the month."
+    },
+    {
+      "term": "forbear",
+      "meaning": "to deliberately refrain from doing or saying something",
+      "example": "She chose to forbear from commenting until the investigation was complete."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "jump the shark",
+      "meaning": "to make an exaggerated move that signals a decline in quality or relevance",
+      "example": "The show jumped the shark when it brought back three characters who had already died."
+    },
+    {
+      "term": "big whoop",
+      "meaning": "a sarcastic response meaning something is not impressive or important",
+      "example": "He bragged about arriving five minutes early, and Maya said, \"Big whoop.\""
+    },
+    {
+      "term": "fine and dandy",
+      "meaning": "completely satisfactory or going well, sometimes said sarcastically",
+      "example": "Everything looked fine and dandy until we tested the payment flow."
+    },
+    {
+      "term": "cough up",
+      "meaning": "to reluctantly hand over money or information",
+      "example": "We finally had to cough up the extra fee to change the reservation."
+    },
+    {
+      "term": "do a number on",
+      "meaning": "to seriously harm, exhaust, or negatively affect someone or something",
+      "example": "That overnight flight really did a number on my sleep schedule."
+    }
+  ]
+}
