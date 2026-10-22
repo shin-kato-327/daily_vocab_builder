@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "performative",
-      "meaning": "done mainly to create an impression rather than to produce a genuine result",
-      "example": "Employees viewed the apology as performative because the company changed none of its policies."
+      "term": "warranted",
+      "meaning": "justified or reasonable under the circumstances",
+      "example": "Given the sudden drop in revenue, a closer review of expenses is warranted."
     },
     {
-      "term": "prospective",
-      "meaning": "expected or likely to happen in the future",
-      "example": "We sent prospective clients a short guide before their first consultation."
+      "term": "misattribute",
+      "meaning": "to assign something to the wrong person, source, or cause",
+      "example": "Analysts initially misattributed the sales dip to pricing rather than a shipping delay."
     },
     {
-      "term": "de-risk",
-      "meaning": "to reduce the chance or potential impact of failure",
-      "example": "A limited pilot will help us de-risk the nationwide rollout."
+      "term": "assay",
+      "meaning": "to examine or evaluate something carefully, often to determine its quality",
+      "example": "The research team will assay the samples before approving the new material."
     },
     {
-      "term": "prorate",
-      "meaning": "to divide or calculate an amount proportionally",
-      "example": "The landlord agreed to prorate the rent because we moved in halfway through the month."
+      "term": "comport",
+      "meaning": "to behave in a particular way or to be consistent with something",
+      "example": "The revised policy must comport with both state law and our internal standards."
     },
     {
-      "term": "forbear",
-      "meaning": "to deliberately refrain from doing or saying something",
-      "example": "She chose to forbear from commenting until the investigation was complete."
+      "term": "bespeak",
+      "meaning": "to indicate or suggest a particular quality or condition",
+      "example": "Her calm handling of the outage bespoke years of operational experience."
     }
   ],
   "phrases": [
     {
-      "term": "jump the shark",
-      "meaning": "to make an exaggerated move that signals a decline in quality or relevance",
-      "example": "The show jumped the shark when it brought back three characters who had already died."
+      "term": "bust someone's chops",
+      "meaning": "to tease, criticize, or give someone a hard time",
+      "example": "My coworkers busted my chops for showing up in a suit on casual Friday."
     },
     {
-      "term": "big whoop",
-      "meaning": "a sarcastic response meaning something is not impressive or important",
-      "example": "He bragged about arriving five minutes early, and Maya said, \"Big whoop.\""
+      "term": "have a cow",
+      "meaning": "to become extremely upset or angry",
+      "example": "Dad is going to have a cow when he sees the dent in the car."
     },
     {
-      "term": "fine and dandy",
-      "meaning": "completely satisfactory or going well, sometimes said sarcastically",
-      "example": "Everything looked fine and dandy until we tested the payment flow."
+      "term": "straight from the horse's mouth",
+      "meaning": "directly from the person who knows the facts firsthand",
+      "example": "I heard straight from the horse's mouth that the store is opening next month."
     },
     {
-      "term": "cough up",
-      "meaning": "to reluctantly hand over money or information",
-      "example": "We finally had to cough up the extra fee to change the reservation."
+      "term": "clutch your pearls",
+      "meaning": "to react with exaggerated shock or disapproval",
+      "example": "Don't clutch your pearls just because I suggested changing the holiday menu."
     },
     {
-      "term": "do a number on",
-      "meaning": "to seriously harm, exhaust, or negatively affect someone or something",
-      "example": "That overnight flight really did a number on my sleep schedule."
+      "term": "jonesing for",
+      "meaning": "strongly craving or wanting something",
+      "example": "I've been jonesing for a good cheeseburger all week."
     }
   ]
 }
