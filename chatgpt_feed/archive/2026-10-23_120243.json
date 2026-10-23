@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "overcorrect",
+      "meaning": "to make an adjustment so strong that it creates the opposite problem",
+      "example": "After one late release, the team overcorrected by adding so many reviews that every update stalled."
+    },
+    {
+      "term": "redact",
+      "meaning": "to remove or hide sensitive information before sharing a document",
+      "example": "Please redact the customer account numbers before sending the report outside the company."
+    },
+    {
+      "term": "invalidate",
+      "meaning": "to show that an idea, result, or claim is no longer valid or reliable",
+      "example": "The missing records could invalidate our conclusion about the sales trend."
+    },
+    {
+      "term": "retrench",
+      "meaning": "to reduce costs or operations during a difficult period",
+      "example": "The company chose to retrench in two markets while protecting its core product."
+    },
+    {
+      "term": "parlay",
+      "meaning": "to use an initial success or advantage to gain something greater",
+      "example": "She parlayed a successful pilot project into a leadership role on the national rollout."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "put the screws to",
+      "meaning": "to apply strong pressure on someone to act or agree",
+      "example": "The landlord put the screws to the contractor after the repairs fell weeks behind."
+    },
+    {
+      "term": "not know someone from Adam",
+      "meaning": "to have no idea who someone is",
+      "example": "I don't know him from Adam, so I'm not comfortable giving him access to the office."
+    },
+    {
+      "term": "stick in your craw",
+      "meaning": "to remain deeply annoying or hard to accept",
+      "example": "The way they took credit for her work really stuck in her craw."
+    },
+    {
+      "term": "six of one, half dozen of the other",
+      "meaning": "used when two choices are effectively equal",
+      "example": "We can drive downtown or take the train; with traffic today, it's six of one, half dozen of the other."
+    },
+    {
+      "term": "don't get cute with me",
+      "meaning": "a warning not to be clever, evasive, or disrespectful",
+      "example": "Don't get cute with me—just tell me why the invoice was never submitted."
+    }
+  ]
+}

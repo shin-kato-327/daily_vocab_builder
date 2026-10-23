@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "warranted",
-      "meaning": "justified or reasonable under the circumstances",
-      "example": "Given the sudden drop in revenue, a closer review of expenses is warranted."
+      "term": "overcorrect",
+      "meaning": "to make an adjustment so strong that it creates the opposite problem",
+      "example": "After one late release, the team overcorrected by adding so many reviews that every update stalled."
     },
     {
-      "term": "misattribute",
-      "meaning": "to assign something to the wrong person, source, or cause",
-      "example": "Analysts initially misattributed the sales dip to pricing rather than a shipping delay."
+      "term": "redact",
+      "meaning": "to remove or hide sensitive information before sharing a document",
+      "example": "Please redact the customer account numbers before sending the report outside the company."
     },
     {
-      "term": "assay",
-      "meaning": "to examine or evaluate something carefully, often to determine its quality",
-      "example": "The research team will assay the samples before approving the new material."
+      "term": "invalidate",
+      "meaning": "to show that an idea, result, or claim is no longer valid or reliable",
+      "example": "The missing records could invalidate our conclusion about the sales trend."
     },
     {
-      "term": "comport",
-      "meaning": "to behave in a particular way or to be consistent with something",
-      "example": "The revised policy must comport with both state law and our internal standards."
+      "term": "retrench",
+      "meaning": "to reduce costs or operations during a difficult period",
+      "example": "The company chose to retrench in two markets while protecting its core product."
     },
     {
-      "term": "bespeak",
-      "meaning": "to indicate or suggest a particular quality or condition",
-      "example": "Her calm handling of the outage bespoke years of operational experience."
+      "term": "parlay",
+      "meaning": "to use an initial success or advantage to gain something greater",
+      "example": "She parlayed a successful pilot project into a leadership role on the national rollout."
     }
   ],
   "phrases": [
     {
-      "term": "bust someone's chops",
-      "meaning": "to tease, criticize, or give someone a hard time",
-      "example": "My coworkers busted my chops for showing up in a suit on casual Friday."
+      "term": "put the screws to",
+      "meaning": "to apply strong pressure on someone to act or agree",
+      "example": "The landlord put the screws to the contractor after the repairs fell weeks behind."
     },
     {
-      "term": "have a cow",
-      "meaning": "to become extremely upset or angry",
-      "example": "Dad is going to have a cow when he sees the dent in the car."
+      "term": "not know someone from Adam",
+      "meaning": "to have no idea who someone is",
+      "example": "I don't know him from Adam, so I'm not comfortable giving him access to the office."
     },
     {
-      "term": "straight from the horse's mouth",
-      "meaning": "directly from the person who knows the facts firsthand",
-      "example": "I heard straight from the horse's mouth that the store is opening next month."
+      "term": "stick in your craw",
+      "meaning": "to remain deeply annoying or hard to accept",
+      "example": "The way they took credit for her work really stuck in her craw."
     },
     {
-      "term": "clutch your pearls",
-      "meaning": "to react with exaggerated shock or disapproval",
-      "example": "Don't clutch your pearls just because I suggested changing the holiday menu."
+      "term": "six of one, half dozen of the other",
+      "meaning": "used when two choices are effectively equal",
+      "example": "We can drive downtown or take the train; with traffic today, it's six of one, half dozen of the other."
     },
     {
-      "term": "jonesing for",
-      "meaning": "strongly craving or wanting something",
-      "example": "I've been jonesing for a good cheeseburger all week."
+      "term": "don't get cute with me",
+      "meaning": "a warning not to be clever, evasive, or disrespectful",
+      "example": "Don't get cute with me—just tell me why the invoice was never submitted."
     }
   ]
 }
