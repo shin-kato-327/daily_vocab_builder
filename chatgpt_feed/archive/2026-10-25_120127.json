@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "delegable",
+      "meaning": "able to be assigned to someone else while responsibility remains appropriately managed",
+      "example": "Routine approvals are delegable, but the final hiring decision stays with the department head."
+    },
+    {
+      "term": "severable",
+      "meaning": "capable of being separated from the rest without invalidating or damaging the whole",
+      "example": "The attorney confirmed that the disputed clause was severable from the rest of the contract."
+    },
+    {
+      "term": "ascertainable",
+      "meaning": "able to be discovered or determined with reasonable certainty",
+      "example": "The total cost is ascertainable once the vendor submits its final shipping estimate."
+    },
+    {
+      "term": "contestable",
+      "meaning": "open to challenge, dispute, or reasonable disagreement",
+      "example": "The forecast relies on several contestable assumptions about customer growth."
+    },
+    {
+      "term": "foreshorten",
+      "meaning": "to make something appear compressed or to shorten its expected duration",
+      "example": "An early funding gap could foreshorten the project's planned three-year timeline."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "in my wheelhouse",
+      "meaning": "within the area of work or knowledge that I handle especially well",
+      "example": "Negotiating vendor contracts is in my wheelhouse, so I'm happy to lead the call."
+    },
+    {
+      "term": "I said what I said",
+      "meaning": "I stand by my blunt statement and do not intend to soften or retract it",
+      "example": "That meeting could have been an email—I said what I said."
+    },
+    {
+      "term": "down bad",
+      "meaning": "in a very difficult, desperate, or embarrassingly infatuated state",
+      "example": "He's down bad if he's driving two hours just to bring her coffee."
+    },
+    {
+      "term": "here's the rub",
+      "meaning": "here is the main difficulty or complication in the situation",
+      "example": "We can launch Friday, but here's the rub: support coverage ends at noon."
+    },
+    {
+      "term": "look alive",
+      "meaning": "pay attention and move with more energy because action is needed",
+      "example": "Look alive, everyone—the client just arrived ten minutes early."
+    }
+  ]
+}

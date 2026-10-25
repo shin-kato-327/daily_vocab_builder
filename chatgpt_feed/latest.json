@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "mediate",
-      "meaning": "to help opposing sides reach an agreement or resolve a dispute",
-      "example": "A neutral manager stepped in to mediate the disagreement between the two teams."
+      "term": "delegable",
+      "meaning": "able to be assigned to someone else while responsibility remains appropriately managed",
+      "example": "Routine approvals are delegable, but the final hiring decision stays with the department head."
     },
     {
-      "term": "cannibalize",
-      "meaning": "to reduce demand for an existing product by introducing a competing product of your own",
-      "example": "The cheaper subscription could cannibalize sales of the company's premium plan."
+      "term": "severable",
+      "meaning": "capable of being separated from the rest without invalidating or damaging the whole",
+      "example": "The attorney confirmed that the disputed clause was severable from the rest of the contract."
     },
     {
-      "term": "intersperse",
-      "meaning": "to place things at intervals among other things",
-      "example": "She interspersed the technical presentation with brief customer stories."
+      "term": "ascertainable",
+      "meaning": "able to be discovered or determined with reasonable certainty",
+      "example": "The total cost is ascertainable once the vendor submits its final shipping estimate."
     },
     {
-      "term": "mischaracterize",
-      "meaning": "to describe someone's words, actions, or position inaccurately",
-      "example": "The summary mischaracterized our request as a demand rather than a suggestion."
+      "term": "contestable",
+      "meaning": "open to challenge, dispute, or reasonable disagreement",
+      "example": "The forecast relies on several contestable assumptions about customer growth."
     },
     {
-      "term": "subserve",
-      "meaning": "to help advance or support a larger purpose",
-      "example": "Each dashboard metric should subserve a clear business decision."
+      "term": "foreshorten",
+      "meaning": "to make something appear compressed or to shorten its expected duration",
+      "example": "An early funding gap could foreshorten the project's planned three-year timeline."
     }
   ],
   "phrases": [
     {
-      "term": "do the most",
-      "meaning": "to behave in an exaggerated way or make more effort than a situation requires",
-      "example": "You don't need a ten-slide deck for this update; you're doing the most."
+      "term": "in my wheelhouse",
+      "meaning": "within the area of work or knowledge that I handle especially well",
+      "example": "Negotiating vendor contracts is in my wheelhouse, so I'm happy to lead the call."
     },
     {
-      "term": "keep that same energy",
-      "meaning": "to remain equally bold or consistent when the circumstances change",
-      "example": "You were confident before the results came in, so keep that same energy now."
+      "term": "I said what I said",
+      "meaning": "I stand by my blunt statement and do not intend to soften or retract it",
+      "example": "That meeting could have been an email—I said what I said."
     },
     {
-      "term": "hold that thought",
-      "meaning": "to pause an idea or conversation briefly and return to it soon",
-      "example": "Hold that thought—I need to answer this call, and then I want to hear the rest."
+      "term": "down bad",
+      "meaning": "in a very difficult, desperate, or embarrassingly infatuated state",
+      "example": "He's down bad if he's driving two hours just to bring her coffee."
     },
     {
-      "term": "go touch grass",
-      "meaning": "to step away from the internet and reconnect with everyday life, usually said teasingly",
-      "example": "You've been arguing online all morning; go touch grass for a while."
+      "term": "here's the rub",
+      "meaning": "here is the main difficulty or complication in the situation",
+      "example": "We can launch Friday, but here's the rub: support coverage ends at noon."
     },
     {
-      "term": "you hate to see it",
-      "meaning": "an expression of disappointment about an unfortunate outcome, sometimes used ironically",
-      "example": "Their best player got injured right before the playoffs—you hate to see it."
+      "term": "look alive",
+      "meaning": "pay attention and move with more energy because action is needed",
+      "example": "Look alive, everyone—the client just arrived ten minutes early."
     }
   ]
 }
