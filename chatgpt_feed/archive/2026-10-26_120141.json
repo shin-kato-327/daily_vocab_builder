@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "allocable",
+      "meaning": "able to be assigned to a particular purpose, department, or cost category",
+      "example": "Only expenses directly allocable to the research project can be charged to this grant."
+    },
+    {
+      "term": "articulable",
+      "meaning": "capable of being clearly expressed or explained",
+      "example": "The hiring decision should rest on articulable criteria rather than a vague gut feeling."
+    },
+    {
+      "term": "interoperable",
+      "meaning": "able to exchange information and work smoothly with another system",
+      "example": "The new scheduling tool must be interoperable with our existing calendar software."
+    },
+    {
+      "term": "replicable",
+      "meaning": "capable of being repeated with consistent results",
+      "example": "Before expanding the pilot, we need a replicable process that every regional team can follow."
+    },
+    {
+      "term": "generalizable",
+      "meaning": "applicable beyond a specific case or limited set of circumstances",
+      "example": "The finding is useful, but the sample is too small to know whether it is generalizable."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "don't borrow trouble",
+      "meaning": "do not worry about a problem before it actually happens",
+      "example": "The client has not objected to the timeline, so don't borrow trouble by assuming they will."
+    },
+    {
+      "term": "well, that tracks",
+      "meaning": "that makes sense or matches what I already know, often said with mild irony",
+      "example": "He forgot the attachment again? Well, that tracks; he was rushing all morning."
+    },
+    {
+      "term": "the juice isn't worth the squeeze",
+      "meaning": "the expected benefit is not worth the effort, cost, or risk",
+      "example": "We could customize the report for one customer, but the juice isn't worth the squeeze."
+    },
+    {
+      "term": "nothing to write home about",
+      "meaning": "ordinary or unimpressive rather than especially good",
+      "example": "The hotel was clean, but the breakfast was nothing to write home about."
+    },
+    {
+      "term": "don't threaten me with a good time",
+      "meaning": "a playful way to say that a supposed warning actually sounds appealing",
+      "example": "You mean the meeting might end early? Don't threaten me with a good time."
+    }
+  ]
+}

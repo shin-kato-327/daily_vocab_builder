@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "delegable",
-      "meaning": "able to be assigned to someone else while responsibility remains appropriately managed",
-      "example": "Routine approvals are delegable, but the final hiring decision stays with the department head."
+      "term": "allocable",
+      "meaning": "able to be assigned to a particular purpose, department, or cost category",
+      "example": "Only expenses directly allocable to the research project can be charged to this grant."
     },
     {
-      "term": "severable",
-      "meaning": "capable of being separated from the rest without invalidating or damaging the whole",
-      "example": "The attorney confirmed that the disputed clause was severable from the rest of the contract."
+      "term": "articulable",
+      "meaning": "capable of being clearly expressed or explained",
+      "example": "The hiring decision should rest on articulable criteria rather than a vague gut feeling."
     },
     {
-      "term": "ascertainable",
-      "meaning": "able to be discovered or determined with reasonable certainty",
-      "example": "The total cost is ascertainable once the vendor submits its final shipping estimate."
+      "term": "interoperable",
+      "meaning": "able to exchange information and work smoothly with another system",
+      "example": "The new scheduling tool must be interoperable with our existing calendar software."
     },
     {
-      "term": "contestable",
-      "meaning": "open to challenge, dispute, or reasonable disagreement",
-      "example": "The forecast relies on several contestable assumptions about customer growth."
+      "term": "replicable",
+      "meaning": "capable of being repeated with consistent results",
+      "example": "Before expanding the pilot, we need a replicable process that every regional team can follow."
     },
     {
-      "term": "foreshorten",
-      "meaning": "to make something appear compressed or to shorten its expected duration",
-      "example": "An early funding gap could foreshorten the project's planned three-year timeline."
+      "term": "generalizable",
+      "meaning": "applicable beyond a specific case or limited set of circumstances",
+      "example": "The finding is useful, but the sample is too small to know whether it is generalizable."
     }
   ],
   "phrases": [
     {
-      "term": "in my wheelhouse",
-      "meaning": "within the area of work or knowledge that I handle especially well",
-      "example": "Negotiating vendor contracts is in my wheelhouse, so I'm happy to lead the call."
+      "term": "don't borrow trouble",
+      "meaning": "do not worry about a problem before it actually happens",
+      "example": "The client has not objected to the timeline, so don't borrow trouble by assuming they will."
     },
     {
-      "term": "I said what I said",
-      "meaning": "I stand by my blunt statement and do not intend to soften or retract it",
-      "example": "That meeting could have been an email—I said what I said."
+      "term": "well, that tracks",
+      "meaning": "that makes sense or matches what I already know, often said with mild irony",
+      "example": "He forgot the attachment again? Well, that tracks; he was rushing all morning."
     },
     {
-      "term": "down bad",
-      "meaning": "in a very difficult, desperate, or embarrassingly infatuated state",
-      "example": "He's down bad if he's driving two hours just to bring her coffee."
+      "term": "the juice isn't worth the squeeze",
+      "meaning": "the expected benefit is not worth the effort, cost, or risk",
+      "example": "We could customize the report for one customer, but the juice isn't worth the squeeze."
     },
     {
-      "term": "here's the rub",
-      "meaning": "here is the main difficulty or complication in the situation",
-      "example": "We can launch Friday, but here's the rub: support coverage ends at noon."
+      "term": "nothing to write home about",
+      "meaning": "ordinary or unimpressive rather than especially good",
+      "example": "The hotel was clean, but the breakfast was nothing to write home about."
     },
     {
-      "term": "look alive",
-      "meaning": "pay attention and move with more energy because action is needed",
-      "example": "Look alive, everyone—the client just arrived ten minutes early."
+      "term": "don't threaten me with a good time",
+      "meaning": "a playful way to say that a supposed warning actually sounds appealing",
+      "example": "You mean the meeting might end early? Don't threaten me with a good time."
     }
   ]
 }
