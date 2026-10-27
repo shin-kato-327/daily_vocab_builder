@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "allocable",
-      "meaning": "able to be assigned to a particular purpose, department, or cost category",
-      "example": "Only expenses directly allocable to the research project can be charged to this grant."
+      "term": "multifactorial",
+      "meaning": "caused or shaped by several interacting factors rather than one single cause",
+      "example": "The decline in customer retention is multifactorial, so changing the price alone will not solve it."
     },
     {
-      "term": "articulable",
-      "meaning": "capable of being clearly expressed or explained",
-      "example": "The hiring decision should rest on articulable criteria rather than a vague gut feeling."
+      "term": "modality",
+      "meaning": "a particular method, form, or mode in which something is done or experienced",
+      "example": "The therapist suggested a different treatment modality after the first approach produced limited results."
     },
     {
-      "term": "interoperable",
-      "meaning": "able to exchange information and work smoothly with another system",
-      "example": "The new scheduling tool must be interoperable with our existing calendar software."
+      "term": "reflexive",
+      "meaning": "done automatically or without deliberate thought",
+      "example": "His reflexive response was to reject the proposal, but he reconsidered after reviewing the data."
     },
     {
-      "term": "replicable",
-      "meaning": "capable of being repeated with consistent results",
-      "example": "Before expanding the pilot, we need a replicable process that every regional team can follow."
+      "term": "complementarity",
+      "meaning": "the quality of two things working together so that each makes the other more effective",
+      "example": "The partnership succeeded because of the complementarity between her technical expertise and his sales experience."
     },
     {
-      "term": "generalizable",
-      "meaning": "applicable beyond a specific case or limited set of circumstances",
-      "example": "The finding is useful, but the sample is too small to know whether it is generalizable."
+      "term": "asymptotic",
+      "meaning": "approaching a limit gradually without fully reaching it",
+      "example": "After several rounds of optimization, the performance gains became asymptotic and barely justified the extra effort."
     }
   ],
   "phrases": [
     {
-      "term": "don't borrow trouble",
-      "meaning": "do not worry about a problem before it actually happens",
-      "example": "The client has not objected to the timeline, so don't borrow trouble by assuming they will."
+      "term": "the call is coming from inside the house",
+      "meaning": "the real problem is coming from within the group or organization itself",
+      "example": "We blamed the vendor for the delays, but the call is coming from inside the house; our approval process takes two weeks."
     },
     {
-      "term": "well, that tracks",
-      "meaning": "that makes sense or matches what I already know, often said with mild irony",
-      "example": "He forgot the attachment again? Well, that tracks; he was rushing all morning."
+      "term": "in this economy?",
+      "meaning": "a humorous expression of disbelief that something is affordable or sensible under current financial conditions",
+      "example": "A destination wedding and a new car in the same month—in this economy?"
     },
     {
-      "term": "the juice isn't worth the squeeze",
-      "meaning": "the expected benefit is not worth the effort, cost, or risk",
-      "example": "We could customize the report for one customer, but the juice isn't worth the squeeze."
+      "term": "that part",
+      "meaning": "an emphatic way to show strong agreement with a specific point someone just made",
+      "example": "When Maya said clear priorities matter more than longer hours, I said, 'That part.'"
     },
     {
-      "term": "nothing to write home about",
-      "meaning": "ordinary or unimpressive rather than especially good",
-      "example": "The hotel was clean, but the breakfast was nothing to write home about."
+      "term": "hold my beer",
+      "meaning": "a joking way to announce that you are about to attempt something bold, risky, or competitive",
+      "example": "When Ben claimed nobody could finish the spicy challenge, Carla laughed and said, 'Hold my beer.'"
     },
     {
-      "term": "don't threaten me with a good time",
-      "meaning": "a playful way to say that a supposed warning actually sounds appealing",
-      "example": "You mean the meeting might end early? Don't threaten me with a good time."
+      "term": "ask me how I know",
+      "meaning": "a wry way to imply that you learned something through personal, usually unpleasant, experience",
+      "example": "Always save a copy before editing the shared file—ask me how I know."
     }
   ]
 }

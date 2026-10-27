@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "multifactorial",
+      "meaning": "caused or shaped by several interacting factors rather than one single cause",
+      "example": "The decline in customer retention is multifactorial, so changing the price alone will not solve it."
+    },
+    {
+      "term": "modality",
+      "meaning": "a particular method, form, or mode in which something is done or experienced",
+      "example": "The therapist suggested a different treatment modality after the first approach produced limited results."
+    },
+    {
+      "term": "reflexive",
+      "meaning": "done automatically or without deliberate thought",
+      "example": "His reflexive response was to reject the proposal, but he reconsidered after reviewing the data."
+    },
+    {
+      "term": "complementarity",
+      "meaning": "the quality of two things working together so that each makes the other more effective",
+      "example": "The partnership succeeded because of the complementarity between her technical expertise and his sales experience."
+    },
+    {
+      "term": "asymptotic",
+      "meaning": "approaching a limit gradually without fully reaching it",
+      "example": "After several rounds of optimization, the performance gains became asymptotic and barely justified the extra effort."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "the call is coming from inside the house",
+      "meaning": "the real problem is coming from within the group or organization itself",
+      "example": "We blamed the vendor for the delays, but the call is coming from inside the house; our approval process takes two weeks."
+    },
+    {
+      "term": "in this economy?",
+      "meaning": "a humorous expression of disbelief that something is affordable or sensible under current financial conditions",
+      "example": "A destination wedding and a new car in the same month—in this economy?"
+    },
+    {
+      "term": "that part",
+      "meaning": "an emphatic way to show strong agreement with a specific point someone just made",
+      "example": "When Maya said clear priorities matter more than longer hours, I said, 'That part.'"
+    },
+    {
+      "term": "hold my beer",
+      "meaning": "a joking way to announce that you are about to attempt something bold, risky, or competitive",
+      "example": "When Ben claimed nobody could finish the spicy challenge, Carla laughed and said, 'Hold my beer.'"
+    },
+    {
+      "term": "ask me how I know",
+      "meaning": "a wry way to imply that you learned something through personal, usually unpleasant, experience",
+      "example": "Always save a copy before editing the shared file—ask me how I know."
+    }
+  ]
+}
