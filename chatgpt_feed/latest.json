@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "multifactorial",
-      "meaning": "caused or shaped by several interacting factors rather than one single cause",
-      "example": "The decline in customer retention is multifactorial, so changing the price alone will not solve it."
+      "term": "adversarial",
+      "meaning": "involving opposition, conflict, or active competition between sides",
+      "example": "The discussion became adversarial once both teams started defending their budgets instead of solving the problem."
     },
     {
-      "term": "modality",
-      "meaning": "a particular method, form, or mode in which something is done or experienced",
-      "example": "The therapist suggested a different treatment modality after the first approach produced limited results."
+      "term": "admissible",
+      "meaning": "acceptable or allowed under a particular rule or standard",
+      "example": "The auditor confirmed that the digital receipt was admissible evidence of the purchase."
     },
     {
-      "term": "reflexive",
-      "meaning": "done automatically or without deliberate thought",
-      "example": "His reflexive response was to reject the proposal, but he reconsidered after reviewing the data."
+      "term": "convergent",
+      "meaning": "moving toward the same point, conclusion, or result",
+      "example": "The interviews produced convergent evidence that customers wanted a simpler setup process."
     },
     {
-      "term": "complementarity",
-      "meaning": "the quality of two things working together so that each makes the other more effective",
-      "example": "The partnership succeeded because of the complementarity between her technical expertise and his sales experience."
+      "term": "distributive",
+      "meaning": "concerned with how resources, benefits, or responsibilities are divided among people",
+      "example": "The policy debate focused on the distributive effects of raising transit fares."
     },
     {
-      "term": "asymptotic",
-      "meaning": "approaching a limit gradually without fully reaching it",
-      "example": "After several rounds of optimization, the performance gains became asymptotic and barely justified the extra effort."
+      "term": "noncompliant",
+      "meaning": "not meeting an established rule, requirement, or standard",
+      "example": "The security scan flagged three noncompliant devices that needed immediate updates."
     }
   ],
   "phrases": [
     {
-      "term": "the call is coming from inside the house",
-      "meaning": "the real problem is coming from within the group or organization itself",
-      "example": "We blamed the vendor for the delays, but the call is coming from inside the house; our approval process takes two weeks."
+      "term": "run afoul of",
+      "meaning": "to come into conflict with a rule, authority, or expectation",
+      "example": "The promotion could run afoul of state advertising rules if we omit the eligibility details."
     },
     {
-      "term": "in this economy?",
-      "meaning": "a humorous expression of disbelief that something is affordable or sensible under current financial conditions",
-      "example": "A destination wedding and a new car in the same month—in this economy?"
+      "term": "on borrowed time",
+      "meaning": "likely to end, fail, or be removed soon",
+      "example": "That outdated server is on borrowed time, so we should migrate before it fails."
     },
     {
-      "term": "that part",
-      "meaning": "an emphatic way to show strong agreement with a specific point someone just made",
-      "example": "When Maya said clear priorities matter more than longer hours, I said, 'That part.'"
+      "term": "hold all the cards",
+      "meaning": "to control a situation because you have the strongest position or most information",
+      "example": "With three competing offers, the candidate holds all the cards in the negotiation."
     },
     {
-      "term": "hold my beer",
-      "meaning": "a joking way to announce that you are about to attempt something bold, risky, or competitive",
-      "example": "When Ben claimed nobody could finish the spicy challenge, Carla laughed and said, 'Hold my beer.'"
+      "term": "keep the wolf from the door",
+      "meaning": "to earn or obtain just enough money to cover basic needs",
+      "example": "The freelance project helped keep the wolf from the door while she looked for a full-time role."
     },
     {
-      "term": "ask me how I know",
-      "meaning": "a wry way to imply that you learned something through personal, usually unpleasant, experience",
-      "example": "Always save a copy before editing the shared file—ask me how I know."
+      "term": "on the chopping block",
+      "meaning": "at risk of being removed, canceled, or eliminated",
+      "example": "Several low-use features are on the chopping block for the next release."
     }
   ]
 }
