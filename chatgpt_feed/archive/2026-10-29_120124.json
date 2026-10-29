@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "prototypical",
+      "meaning": "showing the most typical or representative features of a group or category",
+      "example": "The pilot store is a prototypical location, so its results should translate well to the rest of the chain."
+    },
+    {
+      "term": "inferential",
+      "meaning": "based on conclusions drawn from evidence rather than direct observation",
+      "example": "The analyst was careful to separate inferential claims from facts directly supported by the survey."
+    },
+    {
+      "term": "corroborative",
+      "meaning": "providing additional evidence that supports or confirms a claim",
+      "example": "The payment records offered corroborative evidence for the timeline described in the emails."
+    },
+    {
+      "term": "ministerial",
+      "meaning": "involving a routine duty carried out according to established rules, with little personal judgment",
+      "example": "Once the committee approved the permit, issuing the document was a ministerial task."
+    },
+    {
+      "term": "subsidiarity",
+      "meaning": "the principle that decisions should be made at the lowest level capable of handling them effectively",
+      "example": "The company embraced subsidiarity by letting regional teams set policies for their own markets."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "be so for real",
+      "meaning": "used to tell someone to be serious or realistic, often with disbelief",
+      "example": "You think we can finish a three-week project by tomorrow? Be so for real."
+    },
+    {
+      "term": "standing on business",
+      "meaning": "following through on your words and taking your responsibilities or principles seriously",
+      "example": "She said she would fix the billing issue today, and she is standing on business."
+    },
+    {
+      "term": "do it for the plot",
+      "meaning": "take a bold or unexpected action because it will make life more interesting",
+      "example": "I almost skipped the open mic, but then I decided to do it for the plot."
+    },
+    {
+      "term": "the math isn't mathing",
+      "meaning": "the facts, numbers, or explanation do not add up or make sense",
+      "example": "They claim costs fell, but every invoice is higher, so the math isn't mathing."
+    },
+    {
+      "term": "let him cook",
+      "meaning": "give someone time and freedom to continue because their idea or performance may turn out well",
+      "example": "His proposal sounded unusual at first, but let him cook; the final plan might surprise us."
+    }
+  ]
+}
