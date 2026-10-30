@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "rebuttable",
+      "meaning": "capable of being challenged and disproved with evidence",
+      "example": "The initial assumption is rebuttable if the audit reveals stronger evidence."
+    },
+    {
+      "term": "supervening",
+      "meaning": "occurring later and changing the effect or course of an earlier situation",
+      "example": "A supervening supply shortage forced the team to revise its launch plan."
+    },
+    {
+      "term": "pretextual",
+      "meaning": "based on a stated reason that hides the real motive",
+      "example": "Employees suspected that the sudden policy review was pretextual rather than necessary."
+    },
+    {
+      "term": "allocative",
+      "meaning": "related to how money, time, or other resources are distributed",
+      "example": "The budget committee focused on allocative decisions that would benefit the most customers."
+    },
+    {
+      "term": "reputational",
+      "meaning": "related to the public perception or standing of a person or organization",
+      "example": "The company considered the reputational risk before responding to the complaint."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "cooking with gas",
+      "meaning": "making strong progress or finally working effectively",
+      "example": "Once the new database was connected, we were really cooking with gas."
+    },
+    {
+      "term": "not worth the squeeze",
+      "meaning": "not valuable enough to justify the effort or trouble involved",
+      "example": "The tiny discount required three extra forms, so it was not worth the squeeze."
+    },
+    {
+      "term": "that's a choice",
+      "meaning": "a mildly sarcastic way to say that a decision seems questionable or unusual",
+      "example": "Wearing flip-flops to a snowstorm is definitely a choice."
+    },
+    {
+      "term": "you love to see it",
+      "meaning": "an enthusiastic reaction to something positive or satisfying",
+      "example": "The neighborhood raised twice its goal for the food drive—you love to see it."
+    },
+    {
+      "term": "we take those",
+      "meaning": "a casual way to accept a favorable result, even if it was imperfect or lucky",
+      "example": "The client approved the draft without revisions, so we take those."
+    }
+  ]
+}

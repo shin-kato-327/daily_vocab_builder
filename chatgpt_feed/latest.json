@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "prototypical",
-      "meaning": "showing the most typical or representative features of a group or category",
-      "example": "The pilot store is a prototypical location, so its results should translate well to the rest of the chain."
+      "term": "rebuttable",
+      "meaning": "capable of being challenged and disproved with evidence",
+      "example": "The initial assumption is rebuttable if the audit reveals stronger evidence."
     },
     {
-      "term": "inferential",
-      "meaning": "based on conclusions drawn from evidence rather than direct observation",
-      "example": "The analyst was careful to separate inferential claims from facts directly supported by the survey."
+      "term": "supervening",
+      "meaning": "occurring later and changing the effect or course of an earlier situation",
+      "example": "A supervening supply shortage forced the team to revise its launch plan."
     },
     {
-      "term": "corroborative",
-      "meaning": "providing additional evidence that supports or confirms a claim",
-      "example": "The payment records offered corroborative evidence for the timeline described in the emails."
+      "term": "pretextual",
+      "meaning": "based on a stated reason that hides the real motive",
+      "example": "Employees suspected that the sudden policy review was pretextual rather than necessary."
     },
     {
-      "term": "ministerial",
-      "meaning": "involving a routine duty carried out according to established rules, with little personal judgment",
-      "example": "Once the committee approved the permit, issuing the document was a ministerial task."
+      "term": "allocative",
+      "meaning": "related to how money, time, or other resources are distributed",
+      "example": "The budget committee focused on allocative decisions that would benefit the most customers."
     },
     {
-      "term": "subsidiarity",
-      "meaning": "the principle that decisions should be made at the lowest level capable of handling them effectively",
-      "example": "The company embraced subsidiarity by letting regional teams set policies for their own markets."
+      "term": "reputational",
+      "meaning": "related to the public perception or standing of a person or organization",
+      "example": "The company considered the reputational risk before responding to the complaint."
     }
   ],
   "phrases": [
     {
-      "term": "be so for real",
-      "meaning": "used to tell someone to be serious or realistic, often with disbelief",
-      "example": "You think we can finish a three-week project by tomorrow? Be so for real."
+      "term": "cooking with gas",
+      "meaning": "making strong progress or finally working effectively",
+      "example": "Once the new database was connected, we were really cooking with gas."
     },
     {
-      "term": "standing on business",
-      "meaning": "following through on your words and taking your responsibilities or principles seriously",
-      "example": "She said she would fix the billing issue today, and she is standing on business."
+      "term": "not worth the squeeze",
+      "meaning": "not valuable enough to justify the effort or trouble involved",
+      "example": "The tiny discount required three extra forms, so it was not worth the squeeze."
     },
     {
-      "term": "do it for the plot",
-      "meaning": "take a bold or unexpected action because it will make life more interesting",
-      "example": "I almost skipped the open mic, but then I decided to do it for the plot."
+      "term": "that's a choice",
+      "meaning": "a mildly sarcastic way to say that a decision seems questionable or unusual",
+      "example": "Wearing flip-flops to a snowstorm is definitely a choice."
     },
     {
-      "term": "the math isn't mathing",
-      "meaning": "the facts, numbers, or explanation do not add up or make sense",
-      "example": "They claim costs fell, but every invoice is higher, so the math isn't mathing."
+      "term": "you love to see it",
+      "meaning": "an enthusiastic reaction to something positive or satisfying",
+      "example": "The neighborhood raised twice its goal for the food drive—you love to see it."
     },
     {
-      "term": "let him cook",
-      "meaning": "give someone time and freedom to continue because their idea or performance may turn out well",
-      "example": "His proposal sounded unusual at first, but let him cook; the final plan might surprise us."
+      "term": "we take those",
+      "meaning": "a casual way to accept a favorable result, even if it was imperfect or lucky",
+      "example": "The client approved the draft without revisions, so we take those."
     }
   ]
 }
