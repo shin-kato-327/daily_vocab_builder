@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "catalyze",
+      "meaning": "to cause or accelerate a significant change or action",
+      "example": "The customer interviews helped catalyze a complete redesign of the onboarding flow."
+    },
+    {
+      "term": "exonerate",
+      "meaning": "to clear someone of blame or wrongdoing",
+      "example": "The audit trail exonerated the analyst by showing that the error began upstream."
+    },
+    {
+      "term": "transpose",
+      "meaning": "to move or exchange the positions of two or more things",
+      "example": "I accidentally transposed two digits when I entered the account number."
+    },
+    {
+      "term": "outstrip",
+      "meaning": "to grow, improve, or perform faster or better than something else",
+      "example": "Demand for the service quickly outstripped the team's support capacity."
+    },
+    {
+      "term": "assent",
+      "meaning": "to express agreement with or approval of a proposal",
+      "example": "The department heads assented to the revised timeline after reviewing the risks."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "I'm not mad at it",
+      "meaning": "I actually like or approve of it, even if I did not expect to",
+      "example": "The bright green chairs are a bold choice, but I'm not mad at it."
+    },
+    {
+      "term": "pick your poison",
+      "meaning": "choose between options that each have drawbacks",
+      "example": "We can take the crowded freeway or the slower side streets—pick your poison."
+    },
+    {
+      "term": "don't quote me on that",
+      "meaning": "what I am saying may be uncertain or should not be attributed to me",
+      "example": "The update should go live Thursday, but don't quote me on that."
+    },
+    {
+      "term": "you didn't hear it from me",
+      "meaning": "keep this information confidential and do not identify me as the source",
+      "example": "You didn't hear it from me, but the company may announce the new office next week."
+    },
+    {
+      "term": "I'll take your word for it",
+      "meaning": "I will accept what you say as true without checking it myself",
+      "example": "I've never tried that restaurant, but I'll take your word for it that the tacos are great."
+    }
+  ]
+}

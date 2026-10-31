@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "rebuttable",
-      "meaning": "capable of being challenged and disproved with evidence",
-      "example": "The initial assumption is rebuttable if the audit reveals stronger evidence."
+      "term": "catalyze",
+      "meaning": "to cause or accelerate a significant change or action",
+      "example": "The customer interviews helped catalyze a complete redesign of the onboarding flow."
     },
     {
-      "term": "supervening",
-      "meaning": "occurring later and changing the effect or course of an earlier situation",
-      "example": "A supervening supply shortage forced the team to revise its launch plan."
+      "term": "exonerate",
+      "meaning": "to clear someone of blame or wrongdoing",
+      "example": "The audit trail exonerated the analyst by showing that the error began upstream."
     },
     {
-      "term": "pretextual",
-      "meaning": "based on a stated reason that hides the real motive",
-      "example": "Employees suspected that the sudden policy review was pretextual rather than necessary."
+      "term": "transpose",
+      "meaning": "to move or exchange the positions of two or more things",
+      "example": "I accidentally transposed two digits when I entered the account number."
     },
     {
-      "term": "allocative",
-      "meaning": "related to how money, time, or other resources are distributed",
-      "example": "The budget committee focused on allocative decisions that would benefit the most customers."
+      "term": "outstrip",
+      "meaning": "to grow, improve, or perform faster or better than something else",
+      "example": "Demand for the service quickly outstripped the team's support capacity."
     },
     {
-      "term": "reputational",
-      "meaning": "related to the public perception or standing of a person or organization",
-      "example": "The company considered the reputational risk before responding to the complaint."
+      "term": "assent",
+      "meaning": "to express agreement with or approval of a proposal",
+      "example": "The department heads assented to the revised timeline after reviewing the risks."
     }
   ],
   "phrases": [
     {
-      "term": "cooking with gas",
-      "meaning": "making strong progress or finally working effectively",
-      "example": "Once the new database was connected, we were really cooking with gas."
+      "term": "I'm not mad at it",
+      "meaning": "I actually like or approve of it, even if I did not expect to",
+      "example": "The bright green chairs are a bold choice, but I'm not mad at it."
     },
     {
-      "term": "not worth the squeeze",
-      "meaning": "not valuable enough to justify the effort or trouble involved",
-      "example": "The tiny discount required three extra forms, so it was not worth the squeeze."
+      "term": "pick your poison",
+      "meaning": "choose between options that each have drawbacks",
+      "example": "We can take the crowded freeway or the slower side streets—pick your poison."
     },
     {
-      "term": "that's a choice",
-      "meaning": "a mildly sarcastic way to say that a decision seems questionable or unusual",
-      "example": "Wearing flip-flops to a snowstorm is definitely a choice."
+      "term": "don't quote me on that",
+      "meaning": "what I am saying may be uncertain or should not be attributed to me",
+      "example": "The update should go live Thursday, but don't quote me on that."
     },
     {
-      "term": "you love to see it",
-      "meaning": "an enthusiastic reaction to something positive or satisfying",
-      "example": "The neighborhood raised twice its goal for the food drive—you love to see it."
+      "term": "you didn't hear it from me",
+      "meaning": "keep this information confidential and do not identify me as the source",
+      "example": "You didn't hear it from me, but the company may announce the new office next week."
     },
     {
-      "term": "we take those",
-      "meaning": "a casual way to accept a favorable result, even if it was imperfect or lucky",
-      "example": "The client approved the draft without revisions, so we take those."
+      "term": "I'll take your word for it",
+      "meaning": "I will accept what you say as true without checking it myself",
+      "example": "I've never tried that restaurant, but I'll take your word for it that the tacos are great."
     }
   ]
 }
