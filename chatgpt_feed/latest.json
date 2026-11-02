@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "intertemporal",
-      "meaning": "involving choices, effects, or comparisons across different periods of time",
-      "example": "The finance team used an intertemporal analysis to compare immediate savings with long-term maintenance costs."
+      "term": "allusive",
+      "meaning": "containing indirect references or hints rather than stating something openly",
+      "example": "Her allusive comment made sense only to people who knew the project's history."
     },
     {
-      "term": "adjudicative",
-      "meaning": "related to making a formal judgment or settling a dispute",
-      "example": "The review panel has an adjudicative role, so its decision will determine whether the appeal succeeds."
+      "term": "elliptical",
+      "meaning": "expressed with words or details deliberately left out, often making the meaning indirect",
+      "example": "His elliptical reply suggested that the decision had already been made."
     },
     {
-      "term": "legibility",
-      "meaning": "the quality of being easy to read, understand, or interpret",
-      "example": "Clear ownership labels improved the legibility of the project plan for everyone involved."
+      "term": "querulous",
+      "meaning": "frequently complaining in an irritated or whining way",
+      "example": "The email sounded querulous, so Maya softened the wording before sending it."
     },
     {
-      "term": "procyclical",
-      "meaning": "tending to intensify the current direction of an economic or business cycle",
-      "example": "Cutting the sales budget during every downturn can be procyclical and make the slump worse."
+      "term": "constitutive",
+      "meaning": "forming an essential part of something rather than merely influencing it",
+      "example": "Trust is constitutive of a strong partnership, not just a pleasant extra."
     },
     {
-      "term": "justiciable",
-      "meaning": "appropriate or able to be decided by a court",
-      "example": "The attorneys disagreed over whether the policy dispute was justiciable or merely political."
+      "term": "dissipate",
+      "meaning": "to gradually disappear or cause uncertainty, tension, or another feeling to disappear",
+      "example": "The revised timeline helped dissipate the team's concern about the launch."
     }
   ],
   "phrases": [
     {
-      "term": "I'm tracking",
-      "meaning": "I understand and am following what you are saying",
-      "example": "I'm tracking so far, but walk me through how the new deadline affects testing."
+      "term": "knock it off",
+      "meaning": "stop doing something annoying or inappropriate",
+      "example": "Knock it off, guys—we need to finish this before the client arrives."
     },
     {
-      "term": "let's call it there",
-      "meaning": "let's stop or finish at this point",
-      "example": "We've resolved the urgent issues, so let's call it there and pick up the rest tomorrow."
+      "term": "suit yourself",
+      "meaning": "do what you want, even though the speaker may not agree with your choice",
+      "example": "If you'd rather drive through rush hour, suit yourself."
     },
     {
-      "term": "color me surprised",
-      "meaning": "an often playful or sarcastic way to say that something is surprising",
-      "example": "Color me surprised—the meeting ended ten minutes early for once."
+      "term": "I can live with that",
+      "meaning": "that option is acceptable, even if it is not ideal",
+      "example": "The delivery will be a day late, but I can live with that."
     },
     {
-      "term": "nothing doing",
-      "meaning": "a firm refusal or a statement that something will not happen",
-      "example": "I asked whether they could waive the fee, but the manager said, 'Nothing doing.'"
+      "term": "don't mind if I do",
+      "meaning": "a lighthearted way to accept something being offered",
+      "example": "Another slice of pie? Don't mind if I do."
     },
     {
-      "term": "don't push your luck",
-      "meaning": "do not take more risks after already getting a favorable result",
-      "example": "They approved the late request, so don't push your luck by asking for another extension."
+      "term": "say no more",
+      "meaning": "I understand what you mean, so no further explanation is needed",
+      "example": "You need the report before the boss gets in? Say no more—I'll handle it."
     }
   ]
 }
