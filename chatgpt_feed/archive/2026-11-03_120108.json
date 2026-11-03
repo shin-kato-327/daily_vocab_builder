@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "bifurcated",
+      "meaning": "divided into two distinct branches or paths",
+      "example": "The approval process is bifurcated, with routine requests handled automatically and exceptions reviewed by a manager."
+    },
+    {
+      "term": "falsifiable",
+      "meaning": "capable of being tested and potentially proven wrong",
+      "example": "A useful hypothesis should be falsifiable, so the team defined a clear result that would disprove it."
+    },
+    {
+      "term": "recursive",
+      "meaning": "repeatedly applying the same process to the result of an earlier step",
+      "example": "The editor used a recursive review process, refining each draft based on feedback from the previous round."
+    },
+    {
+      "term": "emergent",
+      "meaning": "newly developing or arising from the interaction of several parts",
+      "example": "Leadership adjusted the roadmap to account for emergent customer needs that were not obvious during planning."
+    },
+    {
+      "term": "overdetermine",
+      "meaning": "to cause or explain something through several independent factors at once",
+      "example": "Budget pressure, staff turnover, and shifting priorities may overdetermine the project's delay."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "walk and chew gum",
+      "meaning": "to handle two tasks or priorities at the same time",
+      "example": "We can walk and chew gum by fixing the current product while planning its replacement."
+    },
+    {
+      "term": "throw spaghetti at the wall",
+      "meaning": "to try many ideas and see which ones work",
+      "example": "Instead of throwing spaghetti at the wall, let's test three campaigns with clear success criteria."
+    },
+    {
+      "term": "soft launch",
+      "meaning": "a limited or low-key release before a full public launch",
+      "example": "The restaurant did a soft launch for local residents before its grand opening."
+    },
+    {
+      "term": "lock in",
+      "meaning": "to focus intensely and commit fully to a task or goal",
+      "example": "The deadline is Friday, so we need to lock in and finish the final revisions today."
+    },
+    {
+      "term": "built different",
+      "meaning": "exceptionally capable, resilient, or unusual compared with others",
+      "example": "She ran the marathon after working a night shift—she's built different."
+    }
+  ]
+}
