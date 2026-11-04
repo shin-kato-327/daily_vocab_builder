@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "bifurcated",
-      "meaning": "divided into two distinct branches or paths",
-      "example": "The approval process is bifurcated, with routine requests handled automatically and exceptions reviewed by a manager."
+      "term": "instantiation",
+      "meaning": "a concrete example or realization of an abstract idea, plan, or design",
+      "example": "This prototype is the first working instantiation of the team's new service model."
     },
     {
-      "term": "falsifiable",
-      "meaning": "capable of being tested and potentially proven wrong",
-      "example": "A useful hypothesis should be falsifiable, so the team defined a clear result that would disprove it."
+      "term": "reprioritize",
+      "meaning": "to change the order of importance assigned to tasks or goals",
+      "example": "We had to reprioritize the roadmap after two major customers requested the same feature."
     },
     {
-      "term": "recursive",
-      "meaning": "repeatedly applying the same process to the result of an earlier step",
-      "example": "The editor used a recursive review process, refining each draft based on feedback from the previous round."
+      "term": "decompose",
+      "meaning": "to break a complex problem or system into smaller, more manageable parts",
+      "example": "Let's decompose the migration into separate data, security, and training workstreams."
     },
     {
-      "term": "emergent",
-      "meaning": "newly developing or arising from the interaction of several parts",
-      "example": "Leadership adjusted the roadmap to account for emergent customer needs that were not obvious during planning."
+      "term": "precommit",
+      "meaning": "to decide or agree in advance so that changing course later becomes harder",
+      "example": "The committee chose to precommit to objective scoring criteria before reviewing any proposals."
     },
     {
-      "term": "overdetermine",
-      "meaning": "to cause or explain something through several independent factors at once",
-      "example": "Budget pressure, staff turnover, and shifting priorities may overdetermine the project's delay."
+      "term": "traceability",
+      "meaning": "the ability to track the history, origin, or development of something",
+      "example": "The new approval log gives auditors clear traceability from each payment back to its invoice."
     }
   ],
   "phrases": [
     {
-      "term": "walk and chew gum",
-      "meaning": "to handle two tasks or priorities at the same time",
-      "example": "We can walk and chew gum by fixing the current product while planning its replacement."
+      "term": "that checks out",
+      "meaning": "that seems correct, believable, or consistent with the facts",
+      "example": "He said traffic delayed him by twenty minutes, and given the road closure, that checks out."
     },
     {
-      "term": "throw spaghetti at the wall",
-      "meaning": "to try many ideas and see which ones work",
-      "example": "Instead of throwing spaghetti at the wall, let's test three campaigns with clear success criteria."
+      "term": "pick your battles",
+      "meaning": "choose carefully which disagreements are worth your time and energy",
+      "example": "I dislike the new font, but we have a bigger budget issue, so I'm going to pick my battles."
     },
     {
-      "term": "soft launch",
-      "meaning": "a limited or low-key release before a full public launch",
-      "example": "The restaurant did a soft launch for local residents before its grand opening."
+      "term": "tell me about it",
+      "meaning": "an emphatic way to say that you strongly agree because you have had the same experience",
+      "example": "When Maya complained that apartment hunting was exhausting, I said, 'Tell me about it.'"
     },
     {
-      "term": "lock in",
-      "meaning": "to focus intensely and commit fully to a task or goal",
-      "example": "The deadline is Friday, so we need to lock in and finish the final revisions today."
+      "term": "must be nice",
+      "meaning": "a comment, often slightly sarcastic, expressing envy of someone else's advantage or good fortune",
+      "example": "You get every Friday off during the summer? Must be nice."
     },
     {
-      "term": "built different",
-      "meaning": "exceptionally capable, resilient, or unusual compared with others",
-      "example": "She ran the marathon after working a night shift—she's built different."
+      "term": "caught a stray",
+      "meaning": "was unexpectedly criticized or insulted even though you were not the main target",
+      "example": "I opened the group chat to catch up and somehow caught a stray about my cooking."
     }
   ]
 }

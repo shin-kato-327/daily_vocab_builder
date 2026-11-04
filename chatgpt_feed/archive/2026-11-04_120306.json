@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "instantiation",
+      "meaning": "a concrete example or realization of an abstract idea, plan, or design",
+      "example": "This prototype is the first working instantiation of the team's new service model."
+    },
+    {
+      "term": "reprioritize",
+      "meaning": "to change the order of importance assigned to tasks or goals",
+      "example": "We had to reprioritize the roadmap after two major customers requested the same feature."
+    },
+    {
+      "term": "decompose",
+      "meaning": "to break a complex problem or system into smaller, more manageable parts",
+      "example": "Let's decompose the migration into separate data, security, and training workstreams."
+    },
+    {
+      "term": "precommit",
+      "meaning": "to decide or agree in advance so that changing course later becomes harder",
+      "example": "The committee chose to precommit to objective scoring criteria before reviewing any proposals."
+    },
+    {
+      "term": "traceability",
+      "meaning": "the ability to track the history, origin, or development of something",
+      "example": "The new approval log gives auditors clear traceability from each payment back to its invoice."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "that checks out",
+      "meaning": "that seems correct, believable, or consistent with the facts",
+      "example": "He said traffic delayed him by twenty minutes, and given the road closure, that checks out."
+    },
+    {
+      "term": "pick your battles",
+      "meaning": "choose carefully which disagreements are worth your time and energy",
+      "example": "I dislike the new font, but we have a bigger budget issue, so I'm going to pick my battles."
+    },
+    {
+      "term": "tell me about it",
+      "meaning": "an emphatic way to say that you strongly agree because you have had the same experience",
+      "example": "When Maya complained that apartment hunting was exhausting, I said, 'Tell me about it.'"
+    },
+    {
+      "term": "must be nice",
+      "meaning": "a comment, often slightly sarcastic, expressing envy of someone else's advantage or good fortune",
+      "example": "You get every Friday off during the summer? Must be nice."
+    },
+    {
+      "term": "caught a stray",
+      "meaning": "was unexpectedly criticized or insulted even though you were not the main target",
+      "example": "I opened the group chat to catch up and somehow caught a stray about my cooking."
+    }
+  ]
+}
