@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "instantiation",
-      "meaning": "a concrete example or realization of an abstract idea, plan, or design",
-      "example": "This prototype is the first working instantiation of the team's new service model."
+      "term": "inapposite",
+      "meaning": "not relevant or suitable for the situation",
+      "example": "The comparison to last year's launch is inapposite because the market conditions have changed completely."
     },
     {
-      "term": "reprioritize",
-      "meaning": "to change the order of importance assigned to tasks or goals",
-      "example": "We had to reprioritize the roadmap after two major customers requested the same feature."
+      "term": "qualified",
+      "meaning": "limited by conditions, exceptions, or reservations",
+      "example": "The legal team gave the proposal qualified approval pending one change to the contract."
     },
     {
-      "term": "decompose",
-      "meaning": "to break a complex problem or system into smaller, more manageable parts",
-      "example": "Let's decompose the migration into separate data, security, and training workstreams."
+      "term": "subsidiary",
+      "meaning": "less important than, but connected to, the main issue or purpose",
+      "example": "Cost is a subsidiary concern; our first priority is protecting customer data."
     },
     {
-      "term": "precommit",
-      "meaning": "to decide or agree in advance so that changing course later becomes harder",
-      "example": "The committee chose to precommit to objective scoring criteria before reviewing any proposals."
+      "term": "unforced",
+      "meaning": "caused by one's own avoidable mistake rather than outside pressure",
+      "example": "Sending the draft without checking the attachment was an unforced error."
     },
     {
-      "term": "traceability",
-      "meaning": "the ability to track the history, origin, or development of something",
-      "example": "The new approval log gives auditors clear traceability from each payment back to its invoice."
+      "term": "vested",
+      "meaning": "having a strong personal interest in a particular outcome",
+      "example": "Team leads are vested in making the new review process work because it will save them hours each week."
     }
   ],
   "phrases": [
     {
-      "term": "that checks out",
-      "meaning": "that seems correct, believable, or consistent with the facts",
-      "example": "He said traffic delayed him by twenty minutes, and given the road closure, that checks out."
+      "term": "good look",
+      "meaning": "something that creates a favorable impression or shows good judgment",
+      "example": "Giving the support crew credit in the presentation was a good look."
     },
     {
-      "term": "pick your battles",
-      "meaning": "choose carefully which disagreements are worth your time and energy",
-      "example": "I dislike the new font, but we have a bigger budget issue, so I'm going to pick my battles."
+      "term": "get the memo",
+      "meaning": "to understand or become aware of what everyone else already knows",
+      "example": "Apparently I didn't get the memo that everyone was working from home today."
     },
     {
-      "term": "tell me about it",
-      "meaning": "an emphatic way to say that you strongly agree because you have had the same experience",
-      "example": "When Maya complained that apartment hunting was exhausting, I said, 'Tell me about it.'"
+      "term": "now we're talking",
+      "meaning": "said when an idea or situation has become much more appealing",
+      "example": "A four-day weekend with no email? Now we're talking."
     },
     {
-      "term": "must be nice",
-      "meaning": "a comment, often slightly sarcastic, expressing envy of someone else's advantage or good fortune",
-      "example": "You get every Friday off during the summer? Must be nice."
+      "term": "you're telling me",
+      "meaning": "an emphatic way to say that you strongly agree, usually because you have the same experience",
+      "example": "This traffic is brutal. You're telling me—I've been stuck here for an hour."
     },
     {
-      "term": "caught a stray",
-      "meaning": "was unexpectedly criticized or insulted even though you were not the main target",
-      "example": "I opened the group chat to catch up and somehow caught a stray about my cooking."
+      "term": "speak of the devil",
+      "meaning": "said when a person appears just after being mentioned",
+      "example": "Speak of the devil—Marcus just walked in while we were discussing his proposal."
     }
   ]
 }
