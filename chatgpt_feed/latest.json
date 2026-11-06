@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "inapposite",
-      "meaning": "not relevant or suitable for the situation",
-      "example": "The comparison to last year's launch is inapposite because the market conditions have changed completely."
+      "term": "epistolary",
+      "meaning": "relating to letters or written correspondence",
+      "example": "The podcast adapted the scientist's epistolary exchange with her mentor into a compelling narrative."
     },
     {
-      "term": "qualified",
-      "meaning": "limited by conditions, exceptions, or reservations",
-      "example": "The legal team gave the proposal qualified approval pending one change to the contract."
+      "term": "hermetic",
+      "meaning": "tightly sealed off from outside influence or understanding",
+      "example": "The research team became so hermetic that other departments struggled to follow its decisions."
     },
     {
-      "term": "subsidiary",
-      "meaning": "less important than, but connected to, the main issue or purpose",
-      "example": "Cost is a subsidiary concern; our first priority is protecting customer data."
+      "term": "legerdemain",
+      "meaning": "skillful deception or trickery, especially through clever manipulation",
+      "example": "The apparent savings were mostly accounting legerdemain that shifted costs into the next quarter."
     },
     {
-      "term": "unforced",
-      "meaning": "caused by one's own avoidable mistake rather than outside pressure",
-      "example": "Sending the draft without checking the attachment was an unforced error."
+      "term": "opprobrium",
+      "meaning": "strong public criticism or disgrace caused by shameful conduct",
+      "example": "The company faced widespread opprobrium after concealing the safety defect."
     },
     {
-      "term": "vested",
-      "meaning": "having a strong personal interest in a particular outcome",
-      "example": "Team leads are vested in making the new review process work because it will save them hours each week."
+      "term": "zeitgeist",
+      "meaning": "the defining ideas, attitudes, and mood of a particular period",
+      "example": "The campaign captured the zeitgeist by emphasizing flexibility, affordability, and privacy."
     }
   ],
   "phrases": [
     {
-      "term": "good look",
-      "meaning": "something that creates a favorable impression or shows good judgment",
-      "example": "Giving the support crew credit in the presentation was a good look."
+      "term": "my bad",
+      "meaning": "a casual way to admit a mistake and apologize",
+      "example": "My bad—I attached the old version of the spreadsheet."
     },
     {
-      "term": "get the memo",
-      "meaning": "to understand or become aware of what everyone else already knows",
-      "example": "Apparently I didn't get the memo that everyone was working from home today."
+      "term": "works for me",
+      "meaning": "that plan or arrangement is acceptable to me",
+      "example": "If you want to meet at three instead of two, that works for me."
     },
     {
-      "term": "now we're talking",
-      "meaning": "said when an idea or situation has become much more appealing",
-      "example": "A four-day weekend with no email? Now we're talking."
+      "term": "keep me in the loop",
+      "meaning": "continue giving me relevant updates or including me in communications",
+      "example": "Keep me in the loop if the client changes the launch date."
     },
     {
-      "term": "you're telling me",
-      "meaning": "an emphatic way to say that you strongly agree, usually because you have the same experience",
-      "example": "This traffic is brutal. You're telling me—I've been stuck here for an hour."
+      "term": "I wouldn't hold my breath",
+      "meaning": "I do not expect that to happen anytime soon, if at all",
+      "example": "They may approve the refund this week, but I wouldn't hold my breath."
     },
     {
-      "term": "speak of the devil",
-      "meaning": "said when a person appears just after being mentioned",
-      "example": "Speak of the devil—Marcus just walked in while we were discussing his proposal."
+      "term": "here's the kicker",
+      "meaning": "used to introduce the most surprising or important part of a story",
+      "example": "The hotel offered us a free upgrade, and here's the kicker: breakfast was included too."
     }
   ]
 }
