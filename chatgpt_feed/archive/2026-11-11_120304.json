@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "ideational",
+      "meaning": "related to the formation, development, or communication of ideas",
+      "example": "The workshop moved from ideational discussion to a concrete launch plan by noon."
+    },
+    {
+      "term": "imputable",
+      "meaning": "capable of being attributed to a particular person, cause, or source",
+      "example": "Most of the delay was imputable to a late change in the client requirements."
+    },
+    {
+      "term": "noncommittal",
+      "meaning": "deliberately avoiding a clear opinion, decision, or promise",
+      "example": "The manager remained noncommittal until she had reviewed the revised budget."
+    },
+    {
+      "term": "facilitative",
+      "meaning": "helping a process or activity happen more easily or effectively",
+      "example": "His facilitative leadership style encouraged quieter teammates to contribute."
+    },
+    {
+      "term": "operative",
+      "meaning": "currently in effect or having the most important influence in a situation",
+      "example": "The operative rule is that every production change needs a second reviewer."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "not a hill to die on",
+      "meaning": "not an issue important enough to justify a major fight or sacrifice",
+      "example": "I prefer the blue design, but it is not a hill to die on."
+    },
+    {
+      "term": "more power to you",
+      "meaning": "an expression of encouragement or respect for someone pursuing a difficult or unusual choice",
+      "example": "If you want to train for a marathon before work, more power to you."
+    },
+    {
+      "term": "don't get it twisted",
+      "meaning": "do not misunderstand or misrepresent what I mean",
+      "example": "Don't get it twisted—I support the project, but the timeline is unrealistic."
+    },
+    {
+      "term": "game recognizes game",
+      "meaning": "a skilled or experienced person can recognize the same qualities in someone else",
+      "example": "She complimented his negotiation tactics because game recognizes game."
+    },
+    {
+      "term": "good enough for jazz",
+      "meaning": "acceptable for the purpose even if it is not perfectly precise",
+      "example": "The seating chart may change again, but this version is good enough for jazz."
+    }
+  ]
+}
