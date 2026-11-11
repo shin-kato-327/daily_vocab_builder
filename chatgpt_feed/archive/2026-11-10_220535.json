@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "eschew",
+      "meaning": "to deliberately avoid or reject something",
+      "example": "The team decided to eschew flashy features and focus on reliability."
+    },
+    {
+      "term": "disconfirm",
+      "meaning": "to show that a belief, prediction, or assumption is false",
+      "example": "The pilot may disconfirm our assumption that customers prefer weekly reports."
+    },
+    {
+      "term": "backcast",
+      "meaning": "to plan backward from a desired future result to the steps needed now",
+      "example": "We backcast from the December launch date to set each testing deadline."
+    },
+    {
+      "term": "modularize",
+      "meaning": "to divide a system or process into separate, reusable parts",
+      "example": "We should modularize the training program so each office can choose the sections it needs."
+    },
+    {
+      "term": "unmoor",
+      "meaning": "to detach something from its usual basis, limits, or sense of stability",
+      "example": "Rapid leadership changes can unmoor a team from its long-term priorities."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "go back to the well",
+      "meaning": "to return to a familiar source, idea, or strategy for help again",
+      "example": "If referrals slow down, we can go back to the well and contact our former clients."
+    },
+    {
+      "term": "take your foot off the gas",
+      "meaning": "to reduce your effort, speed, or intensity",
+      "example": "We cannot take our foot off the gas until the final bugs are fixed."
+    },
+    {
+      "term": "turn the screws",
+      "meaning": "to increase pressure on someone to act or agree",
+      "example": "The buyer started to turn the screws when the supplier missed a second deadline."
+    },
+    {
+      "term": "cover your bases",
+      "meaning": "to prepare for several possibilities and protect against avoidable problems",
+      "example": "Confirm the venue and reserve a backup room so we cover our bases."
+    },
+    {
+      "term": "have the floor",
+      "meaning": "to have the recognized right to speak in a meeting or discussion",
+      "example": "Maya has the floor, so let's hear her proposal before we respond."
+    }
+  ]
+}

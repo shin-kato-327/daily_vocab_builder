@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "epistolary",
-      "meaning": "relating to letters or written correspondence",
-      "example": "The podcast adapted the scientist's epistolary exchange with her mentor into a compelling narrative."
+      "term": "eschew",
+      "meaning": "to deliberately avoid or reject something",
+      "example": "The team decided to eschew flashy features and focus on reliability."
     },
     {
-      "term": "hermetic",
-      "meaning": "tightly sealed off from outside influence or understanding",
-      "example": "The research team became so hermetic that other departments struggled to follow its decisions."
+      "term": "disconfirm",
+      "meaning": "to show that a belief, prediction, or assumption is false",
+      "example": "The pilot may disconfirm our assumption that customers prefer weekly reports."
     },
     {
-      "term": "legerdemain",
-      "meaning": "skillful deception or trickery, especially through clever manipulation",
-      "example": "The apparent savings were mostly accounting legerdemain that shifted costs into the next quarter."
+      "term": "backcast",
+      "meaning": "to plan backward from a desired future result to the steps needed now",
+      "example": "We backcast from the December launch date to set each testing deadline."
     },
     {
-      "term": "opprobrium",
-      "meaning": "strong public criticism or disgrace caused by shameful conduct",
-      "example": "The company faced widespread opprobrium after concealing the safety defect."
+      "term": "modularize",
+      "meaning": "to divide a system or process into separate, reusable parts",
+      "example": "We should modularize the training program so each office can choose the sections it needs."
     },
     {
-      "term": "zeitgeist",
-      "meaning": "the defining ideas, attitudes, and mood of a particular period",
-      "example": "The campaign captured the zeitgeist by emphasizing flexibility, affordability, and privacy."
+      "term": "unmoor",
+      "meaning": "to detach something from its usual basis, limits, or sense of stability",
+      "example": "Rapid leadership changes can unmoor a team from its long-term priorities."
     }
   ],
   "phrases": [
     {
-      "term": "my bad",
-      "meaning": "a casual way to admit a mistake and apologize",
-      "example": "My bad—I attached the old version of the spreadsheet."
+      "term": "go back to the well",
+      "meaning": "to return to a familiar source, idea, or strategy for help again",
+      "example": "If referrals slow down, we can go back to the well and contact our former clients."
     },
     {
-      "term": "works for me",
-      "meaning": "that plan or arrangement is acceptable to me",
-      "example": "If you want to meet at three instead of two, that works for me."
+      "term": "take your foot off the gas",
+      "meaning": "to reduce your effort, speed, or intensity",
+      "example": "We cannot take our foot off the gas until the final bugs are fixed."
     },
     {
-      "term": "keep me in the loop",
-      "meaning": "continue giving me relevant updates or including me in communications",
-      "example": "Keep me in the loop if the client changes the launch date."
+      "term": "turn the screws",
+      "meaning": "to increase pressure on someone to act or agree",
+      "example": "The buyer started to turn the screws when the supplier missed a second deadline."
     },
     {
-      "term": "I wouldn't hold my breath",
-      "meaning": "I do not expect that to happen anytime soon, if at all",
-      "example": "They may approve the refund this week, but I wouldn't hold my breath."
+      "term": "cover your bases",
+      "meaning": "to prepare for several possibilities and protect against avoidable problems",
+      "example": "Confirm the venue and reserve a backup room so we cover our bases."
     },
     {
-      "term": "here's the kicker",
-      "meaning": "used to introduce the most surprising or important part of a story",
-      "example": "The hotel offered us a free upgrade, and here's the kicker: breakfast was included too."
+      "term": "have the floor",
+      "meaning": "to have the recognized right to speak in a meeting or discussion",
+      "example": "Maya has the floor, so let's hear her proposal before we respond."
     }
   ]
 }

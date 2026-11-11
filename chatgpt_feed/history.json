@@ -1,7 +1,12 @@
 {
   "latest": "latest.json",
-  "archive_count": 120,
+  "archive_count": 121,
   "archives": [
+    {
+      "file": "archive/2026-11-10_220535.json",
+      "words": 5,
+      "phrases": 5
+    },
     {
       "file": "archive/2026-11-06_120301.json",
       "words": 5,
