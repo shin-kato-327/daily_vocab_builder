@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "deprioritize",
+      "meaning": "to deliberately give something less urgency or importance than other work",
+      "example": "We should deprioritize cosmetic changes until the reliability issues are resolved."
+    },
+    {
+      "term": "downselect",
+      "meaning": "to narrow a larger group of options to a smaller set of finalists",
+      "example": "The committee will downselect the eight proposals to three by Friday."
+    },
+    {
+      "term": "longitudinal",
+      "meaning": "involving repeated observations of the same people or subjects over time",
+      "example": "The longitudinal study showed that customer trust improved steadily after the policy change."
+    },
+    {
+      "term": "reproducible",
+      "meaning": "able to be repeated independently with the same or very similar results",
+      "example": "Please document each step so the analysis is reproducible by another team."
+    },
+    {
+      "term": "repatriate",
+      "meaning": "to return a person, asset, or resource to its country or place of origin",
+      "example": "The company plans to repatriate part of its overseas earnings next quarter."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "run the clock out",
+      "meaning": "to use up the remaining time, often to preserve an advantage or avoid action",
+      "example": "The vendor seemed to be running the clock out instead of answering our contract questions."
+    },
+    {
+      "term": "read the tea leaves",
+      "meaning": "to interpret limited clues in order to predict what is likely to happen",
+      "example": "Reading the tea leaves, I think leadership will approve the smaller pilot."
+    },
+    {
+      "term": "get your arms around",
+      "meaning": "to understand or gain control of something complicated",
+      "example": "Give me a day to get my arms around the new reporting requirements."
+    },
+    {
+      "term": "play the percentages",
+      "meaning": "to choose the option most likely to succeed based on the odds",
+      "example": "We played the percentages and launched first in the market with the strongest demand."
+    },
+    {
+      "term": "on a tear",
+      "meaning": "experiencing a period of unusually fast, energetic, or successful activity",
+      "example": "The sales team has been on a tear since the new pricing plan rolled out."
+    }
+  ]
+}
