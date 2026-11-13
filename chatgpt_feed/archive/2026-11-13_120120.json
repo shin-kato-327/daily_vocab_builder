@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "rebaseline",
+      "meaning": "to establish a new reference point for measuring progress, cost, or performance",
+      "example": "After the supplier delay, we had to rebaseline the project schedule and budget."
+    },
+    {
+      "term": "replatform",
+      "meaning": "to move a system or product to a different technology platform",
+      "example": "The company will replatform its online store without changing the customer experience."
+    },
+    {
+      "term": "ancillary",
+      "meaning": "providing secondary support to the main activity or purpose",
+      "example": "The contract covers the core service but charges separately for ancillary support."
+    },
+    {
+      "term": "proprietary",
+      "meaning": "owned and controlled by a particular company or person, often with restricted use",
+      "example": "The vendor stores the data in a proprietary format that other tools cannot easily read."
+    },
+    {
+      "term": "precedential",
+      "meaning": "serving as an example or rule for how similar cases should be handled later",
+      "example": "Management treated the exception cautiously because the decision could be precedential."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "get a bead on it",
+      "meaning": "to gain a clear understanding of something or locate it precisely",
+      "example": "Give me a day to review the logs and get a bead on what is causing the slowdown."
+    },
+    {
+      "term": "give it the gas",
+      "meaning": "to speed up or put more energy into an effort",
+      "example": "We need to give it the gas if we want the proposal ready by Friday."
+    },
+    {
+      "term": "live to fight another day",
+      "meaning": "to accept a temporary setback so you can try again later",
+      "example": "We dropped the disputed feature, shipped the stable release, and lived to fight another day."
+    },
+    {
+      "term": "sell the sizzle",
+      "meaning": "to emphasize the most exciting benefits when presenting an idea or product",
+      "example": "The demo should sell the sizzle while the technical appendix explains the details."
+    },
+    {
+      "term": "put teeth into it",
+      "meaning": "to give a rule, promise, or plan real power and enforceable consequences",
+      "example": "The new deadline policy needs clear penalties to put teeth into it."
+    }
+  ]
+}
