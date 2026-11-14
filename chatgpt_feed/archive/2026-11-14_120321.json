@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "notional",
+      "meaning": "existing as an idea, estimate, or stated value rather than as something fully real or settled",
+      "example": "The budget includes a notional amount for travel, but finance has not approved the spending yet."
+    },
+    {
+      "term": "combinatorial",
+      "meaning": "involving the many possible ways that elements can be arranged or combined",
+      "example": "Testing every device, browser, and account type created a combinatorial problem for the QA team."
+    },
+    {
+      "term": "abductive",
+      "meaning": "based on choosing the most plausible explanation from incomplete evidence",
+      "example": "Her diagnosis was abductive: the timing and error pattern made a failed update the likeliest cause."
+    },
+    {
+      "term": "diachronic",
+      "meaning": "examining how something develops or changes over time",
+      "example": "A diachronic analysis showed how customer complaints shifted after each pricing change."
+    },
+    {
+      "term": "epiphenomenal",
+      "meaning": "present as a secondary effect without being the underlying cause",
+      "example": "The rise in support tickets was epiphenomenal; the real problem was a confusing product update."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "step on it",
+      "meaning": "hurry up or move faster",
+      "example": "We need to step on it if we want to reach the airport before rush hour."
+    },
+    {
+      "term": "thread the needle",
+      "meaning": "find a precise solution that balances competing needs or avoids multiple risks",
+      "example": "The proposal threads the needle between keeping prices low and improving service."
+    },
+    {
+      "term": "same difference",
+      "meaning": "an informal way to say that two supposedly different things have essentially the same result",
+      "example": "Whether we leave at six or six fifteen, it is the same difference once traffic backs up."
+    },
+    {
+      "term": "fair is fair",
+      "meaning": "an informal way to say that the same reasonable standard should apply to everyone",
+      "example": "I covered your shift last week, so fair is fair—you can cover mine on Friday."
+    },
+    {
+      "term": "get off your high horse",
+      "meaning": "stop acting as though you are morally or intellectually superior to others",
+      "example": "He needs to get off his high horse and listen to why the team disagrees."
+    }
+  ]
+}
