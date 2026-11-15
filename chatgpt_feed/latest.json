@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "notional",
-      "meaning": "existing as an idea, estimate, or stated value rather than as something fully real or settled",
-      "example": "The budget includes a notional amount for travel, but finance has not approved the spending yet."
+      "term": "iterative",
+      "meaning": "developed through repeated cycles of testing and improvement",
+      "example": "We took an iterative approach, refining the onboarding flow after each round of user feedback."
     },
     {
-      "term": "combinatorial",
-      "meaning": "involving the many possible ways that elements can be arranged or combined",
-      "example": "Testing every device, browser, and account type created a combinatorial problem for the QA team."
+      "term": "canonical",
+      "meaning": "accepted as the standard, authoritative, or official version",
+      "example": "The team maintains one canonical document so everyone works from the same requirements."
     },
     {
-      "term": "abductive",
-      "meaning": "based on choosing the most plausible explanation from incomplete evidence",
-      "example": "Her diagnosis was abductive: the timing and error pattern made a failed update the likeliest cause."
+      "term": "modular",
+      "meaning": "designed in separate parts that can be combined, replaced, or reused",
+      "example": "The modular training program lets managers choose the lessons their teams need most."
     },
     {
-      "term": "diachronic",
-      "meaning": "examining how something develops or changes over time",
-      "example": "A diachronic analysis showed how customer complaints shifted after each pricing change."
+      "term": "retrospective",
+      "meaning": "looking back on past events in order to evaluate or understand them",
+      "example": "Our retrospective analysis showed that early customer interviews prevented several costly mistakes."
     },
     {
-      "term": "epiphenomenal",
-      "meaning": "present as a secondary effect without being the underlying cause",
-      "example": "The rise in support tickets was epiphenomenal; the real problem was a confusing product update."
+      "term": "tangential",
+      "meaning": "only loosely related to the main subject",
+      "example": "Her point was interesting but tangential to the decision we needed to make."
     }
   ],
   "phrases": [
     {
-      "term": "step on it",
-      "meaning": "hurry up or move faster",
-      "example": "We need to step on it if we want to reach the airport before rush hour."
+      "term": "catch a second wind",
+      "meaning": "to regain energy or enthusiasm after becoming tired",
+      "example": "I was fading after lunch, but I caught a second wind and finished the report."
     },
     {
-      "term": "thread the needle",
-      "meaning": "find a precise solution that balances competing needs or avoids multiple risks",
-      "example": "The proposal threads the needle between keeping prices low and improving service."
+      "term": "whole different ball game",
+      "meaning": "a completely different situation that requires a new approach",
+      "example": "Running a pilot is manageable, but supporting thousands of users is a whole different ball game."
     },
     {
-      "term": "same difference",
-      "meaning": "an informal way to say that two supposedly different things have essentially the same result",
-      "example": "Whether we leave at six or six fifteen, it is the same difference once traffic backs up."
+      "term": "go around the horn",
+      "meaning": "to move from person to person so everyone gets a turn",
+      "example": "Let's go around the horn and hear one update from each team lead."
     },
     {
-      "term": "fair is fair",
-      "meaning": "an informal way to say that the same reasonable standard should apply to everyone",
-      "example": "I covered your shift last week, so fair is fair—you can cover mine on Friday."
+      "term": "play it close to the vest",
+      "meaning": "to keep plans or information private",
+      "example": "The company is playing it close to the vest until the acquisition is final."
     },
     {
-      "term": "get off your high horse",
-      "meaning": "stop acting as though you are morally or intellectually superior to others",
-      "example": "He needs to get off his high horse and listen to why the team disagrees."
+      "term": "by a country mile",
+      "meaning": "by a very large amount or distance",
+      "example": "That was our strongest product launch by a country mile."
     }
   ]
 }
