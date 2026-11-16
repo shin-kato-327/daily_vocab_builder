@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "incommensurable",
+      "meaning": "too different in kind to be compared fairly using one standard",
+      "example": "The two proposals offer incommensurable benefits, so price alone cannot settle the decision."
+    },
+    {
+      "term": "disaggregated",
+      "meaning": "separated into smaller parts so the underlying details can be examined",
+      "example": "The disaggregated sales data revealed that one region was masking declines elsewhere."
+    },
+    {
+      "term": "evergreen",
+      "meaning": "remaining useful or relevant for a long time rather than becoming quickly outdated",
+      "example": "The team created an evergreen onboarding guide that only needs occasional updates."
+    },
+    {
+      "term": "irrevocable",
+      "meaning": "impossible to reverse, cancel, or take back",
+      "example": "Before making an irrevocable decision, she asked for one final review of the contract."
+    },
+    {
+      "term": "redressable",
+      "meaning": "capable of being corrected, remedied, or compensated for",
+      "example": "The billing error was redressable, but the support team still apologized for the inconvenience."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "put the kibosh on it",
+      "meaning": "to stop or cancel something decisively",
+      "example": "The unexpected cost put the kibosh on our plan to renovate this spring."
+    },
+    {
+      "term": "have a hitch in your giddyup",
+      "meaning": "to have a small problem that is slowing you down or affecting how you move",
+      "example": "I have a hitch in my giddyup today, so I am taking the stairs slowly."
+    },
+    {
+      "term": "open a can of worms",
+      "meaning": "to create a complicated set of new problems by addressing one issue",
+      "example": "Changing the refund policy could open a can of worms for the support team."
+    },
+    {
+      "term": "a day late and a dollar short",
+      "meaning": "too late and insufficient to make a meaningful difference",
+      "example": "Their apology felt a day late and a dollar short after weeks of silence."
+    },
+    {
+      "term": "happy as a clam",
+      "meaning": "very happy and content",
+      "example": "Give him a good book and a quiet afternoon, and he is happy as a clam."
+    }
+  ]
+}

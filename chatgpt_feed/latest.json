@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "iterative",
-      "meaning": "developed through repeated cycles of testing and improvement",
-      "example": "We took an iterative approach, refining the onboarding flow after each round of user feedback."
+      "term": "incommensurable",
+      "meaning": "too different in kind to be compared fairly using one standard",
+      "example": "The two proposals offer incommensurable benefits, so price alone cannot settle the decision."
     },
     {
-      "term": "canonical",
-      "meaning": "accepted as the standard, authoritative, or official version",
-      "example": "The team maintains one canonical document so everyone works from the same requirements."
+      "term": "disaggregated",
+      "meaning": "separated into smaller parts so the underlying details can be examined",
+      "example": "The disaggregated sales data revealed that one region was masking declines elsewhere."
     },
     {
-      "term": "modular",
-      "meaning": "designed in separate parts that can be combined, replaced, or reused",
-      "example": "The modular training program lets managers choose the lessons their teams need most."
+      "term": "evergreen",
+      "meaning": "remaining useful or relevant for a long time rather than becoming quickly outdated",
+      "example": "The team created an evergreen onboarding guide that only needs occasional updates."
     },
     {
-      "term": "retrospective",
-      "meaning": "looking back on past events in order to evaluate or understand them",
-      "example": "Our retrospective analysis showed that early customer interviews prevented several costly mistakes."
+      "term": "irrevocable",
+      "meaning": "impossible to reverse, cancel, or take back",
+      "example": "Before making an irrevocable decision, she asked for one final review of the contract."
     },
     {
-      "term": "tangential",
-      "meaning": "only loosely related to the main subject",
-      "example": "Her point was interesting but tangential to the decision we needed to make."
+      "term": "redressable",
+      "meaning": "capable of being corrected, remedied, or compensated for",
+      "example": "The billing error was redressable, but the support team still apologized for the inconvenience."
     }
   ],
   "phrases": [
     {
-      "term": "catch a second wind",
-      "meaning": "to regain energy or enthusiasm after becoming tired",
-      "example": "I was fading after lunch, but I caught a second wind and finished the report."
+      "term": "put the kibosh on it",
+      "meaning": "to stop or cancel something decisively",
+      "example": "The unexpected cost put the kibosh on our plan to renovate this spring."
     },
     {
-      "term": "whole different ball game",
-      "meaning": "a completely different situation that requires a new approach",
-      "example": "Running a pilot is manageable, but supporting thousands of users is a whole different ball game."
+      "term": "have a hitch in your giddyup",
+      "meaning": "to have a small problem that is slowing you down or affecting how you move",
+      "example": "I have a hitch in my giddyup today, so I am taking the stairs slowly."
     },
     {
-      "term": "go around the horn",
-      "meaning": "to move from person to person so everyone gets a turn",
-      "example": "Let's go around the horn and hear one update from each team lead."
+      "term": "open a can of worms",
+      "meaning": "to create a complicated set of new problems by addressing one issue",
+      "example": "Changing the refund policy could open a can of worms for the support team."
     },
     {
-      "term": "play it close to the vest",
-      "meaning": "to keep plans or information private",
-      "example": "The company is playing it close to the vest until the acquisition is final."
+      "term": "a day late and a dollar short",
+      "meaning": "too late and insufficient to make a meaningful difference",
+      "example": "Their apology felt a day late and a dollar short after weeks of silence."
     },
     {
-      "term": "by a country mile",
-      "meaning": "by a very large amount or distance",
-      "example": "That was our strongest product launch by a country mile."
+      "term": "happy as a clam",
+      "meaning": "very happy and content",
+      "example": "Give him a good book and a quiet afternoon, and he is happy as a clam."
     }
   ]
 }
