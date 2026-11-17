@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "approbation",
+      "meaning": "formal or enthusiastic approval",
+      "example": "The revised proposal won the approbation of both the legal and finance teams."
+    },
+    {
+      "term": "bromide",
+      "meaning": "a dull, overused remark presented as useful advice",
+      "example": "Instead of offering another bromide about teamwork, the manager addressed the actual conflict."
+    },
+    {
+      "term": "consilience",
+      "meaning": "agreement between evidence or ideas from different fields",
+      "example": "The consilience of customer interviews and sales data gave us confidence in the strategy."
+    },
+    {
+      "term": "immaterial",
+      "meaning": "not important or relevant to the matter being considered",
+      "example": "Whether the typo appeared in the first or second draft is immaterial to the final decision."
+    },
+    {
+      "term": "transitory",
+      "meaning": "temporary and unlikely to last for long",
+      "example": "The sudden increase in support requests proved transitory after the update stabilized."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "have your ducks in a row",
+      "meaning": "to be fully organized and prepared",
+      "example": "Make sure you have your ducks in a row before presenting the budget to the board."
+    },
+    {
+      "term": "kick it up a notch",
+      "meaning": "to increase the effort, intensity, or quality",
+      "example": "The first draft is solid, but we need to kick it up a notch before the client meeting."
+    },
+    {
+      "term": "play possum",
+      "meaning": "to pretend to be asleep, inactive, or unaware to avoid attention",
+      "example": "When the boss asked for volunteers, Marcus played possum and stared at his notes."
+    },
+    {
+      "term": "hang tough",
+      "meaning": "to remain determined during a difficult situation",
+      "example": "Hang tough for another week; the busiest part of the rollout is almost over."
+    },
+    {
+      "term": "close call",
+      "meaning": "a situation in which something bad is only narrowly avoided",
+      "example": "It was a close call, but the team fixed the payment bug just before launch."
+    }
+  ]
+}

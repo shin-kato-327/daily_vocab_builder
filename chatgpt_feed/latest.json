@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "incommensurable",
-      "meaning": "too different in kind to be compared fairly using one standard",
-      "example": "The two proposals offer incommensurable benefits, so price alone cannot settle the decision."
+      "term": "approbation",
+      "meaning": "formal or enthusiastic approval",
+      "example": "The revised proposal won the approbation of both the legal and finance teams."
     },
     {
-      "term": "disaggregated",
-      "meaning": "separated into smaller parts so the underlying details can be examined",
-      "example": "The disaggregated sales data revealed that one region was masking declines elsewhere."
+      "term": "bromide",
+      "meaning": "a dull, overused remark presented as useful advice",
+      "example": "Instead of offering another bromide about teamwork, the manager addressed the actual conflict."
     },
     {
-      "term": "evergreen",
-      "meaning": "remaining useful or relevant for a long time rather than becoming quickly outdated",
-      "example": "The team created an evergreen onboarding guide that only needs occasional updates."
+      "term": "consilience",
+      "meaning": "agreement between evidence or ideas from different fields",
+      "example": "The consilience of customer interviews and sales data gave us confidence in the strategy."
     },
     {
-      "term": "irrevocable",
-      "meaning": "impossible to reverse, cancel, or take back",
-      "example": "Before making an irrevocable decision, she asked for one final review of the contract."
+      "term": "immaterial",
+      "meaning": "not important or relevant to the matter being considered",
+      "example": "Whether the typo appeared in the first or second draft is immaterial to the final decision."
     },
     {
-      "term": "redressable",
-      "meaning": "capable of being corrected, remedied, or compensated for",
-      "example": "The billing error was redressable, but the support team still apologized for the inconvenience."
+      "term": "transitory",
+      "meaning": "temporary and unlikely to last for long",
+      "example": "The sudden increase in support requests proved transitory after the update stabilized."
     }
   ],
   "phrases": [
     {
-      "term": "put the kibosh on it",
-      "meaning": "to stop or cancel something decisively",
-      "example": "The unexpected cost put the kibosh on our plan to renovate this spring."
+      "term": "have your ducks in a row",
+      "meaning": "to be fully organized and prepared",
+      "example": "Make sure you have your ducks in a row before presenting the budget to the board."
     },
     {
-      "term": "have a hitch in your giddyup",
-      "meaning": "to have a small problem that is slowing you down or affecting how you move",
-      "example": "I have a hitch in my giddyup today, so I am taking the stairs slowly."
+      "term": "kick it up a notch",
+      "meaning": "to increase the effort, intensity, or quality",
+      "example": "The first draft is solid, but we need to kick it up a notch before the client meeting."
     },
     {
-      "term": "open a can of worms",
-      "meaning": "to create a complicated set of new problems by addressing one issue",
-      "example": "Changing the refund policy could open a can of worms for the support team."
+      "term": "play possum",
+      "meaning": "to pretend to be asleep, inactive, or unaware to avoid attention",
+      "example": "When the boss asked for volunteers, Marcus played possum and stared at his notes."
     },
     {
-      "term": "a day late and a dollar short",
-      "meaning": "too late and insufficient to make a meaningful difference",
-      "example": "Their apology felt a day late and a dollar short after weeks of silence."
+      "term": "hang tough",
+      "meaning": "to remain determined during a difficult situation",
+      "example": "Hang tough for another week; the busiest part of the rollout is almost over."
     },
     {
-      "term": "happy as a clam",
-      "meaning": "very happy and content",
-      "example": "Give him a good book and a quiet afternoon, and he is happy as a clam."
+      "term": "close call",
+      "meaning": "a situation in which something bad is only narrowly avoided",
+      "example": "It was a close call, but the team fixed the payment bug just before launch."
     }
   ]
 }
