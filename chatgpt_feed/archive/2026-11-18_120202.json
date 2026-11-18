@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "concatenation",
+      "meaning": "a series of connected things or events linked together",
+      "example": "The outage resulted from a concatenation of small configuration errors rather than one major failure."
+    },
+    {
+      "term": "monitory",
+      "meaning": "serving as a warning or caution",
+      "example": "The auditor's monitory note prompted the team to tighten its expense controls."
+    },
+    {
+      "term": "extirpate",
+      "meaning": "to remove or destroy something completely",
+      "example": "The new review process is designed to extirpate recurring errors from the monthly report."
+    },
+    {
+      "term": "conterminous",
+      "meaning": "sharing the same boundaries or covering the same area",
+      "example": "The sales district is conterminous with the county, which simplifies regional reporting."
+    },
+    {
+      "term": "desuetude",
+      "meaning": "a state of no longer being used or practiced",
+      "example": "The policy fell into desuetude after the company adopted a fully remote workflow."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "go full tilt",
+      "meaning": "to proceed with maximum speed, effort, or intensity",
+      "example": "Once the budget was approved, the team went full tilt on the launch."
+    },
+    {
+      "term": "bring the heat",
+      "meaning": "to perform with strong energy, skill, or pressure",
+      "example": "The other team will bring the heat, so we need to be ready from the start."
+    },
+    {
+      "term": "that's a wrap",
+      "meaning": "something is finished or completed",
+      "example": "The final scene is done, so that's a wrap for today."
+    },
+    {
+      "term": "you had one job",
+      "meaning": "a teasing or critical remark when someone fails at one simple task",
+      "example": "You had one job: bring the tickets, and you left them on the kitchen counter."
+    },
+    {
+      "term": "stay in your lane",
+      "meaning": "to focus on your own responsibilities and avoid interfering in others' matters",
+      "example": "I offered one suggestion, then stayed in my lane and let the design team decide."
+    }
+  ]
+}
