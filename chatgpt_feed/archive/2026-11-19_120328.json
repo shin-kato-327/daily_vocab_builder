@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "directional",
+      "meaning": "useful for showing the general trend or likely path, even if not exact",
+      "example": "The early survey results are directional, so we should avoid treating the percentages as final."
+    },
+    {
+      "term": "multivariate",
+      "meaning": "involving or analyzing several variables at the same time",
+      "example": "The team ran a multivariate analysis to separate the effects of price, location, and season."
+    },
+    {
+      "term": "correlative",
+      "meaning": "closely connected to another thing, with each corresponding to or affecting the other",
+      "example": "Greater decision-making authority should come with a correlative increase in accountability."
+    },
+    {
+      "term": "composable",
+      "meaning": "designed so that separate parts can be combined or rearranged easily",
+      "example": "The new platform is composable, allowing teams to reuse the same services in different products."
+    },
+    {
+      "term": "unsubstantiated",
+      "meaning": "not supported by reliable evidence or proof",
+      "example": "The editor removed the unsubstantiated claim until the writer could provide a credible source."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "bang for your buck",
+      "meaning": "good value or benefit for the money or effort spent",
+      "example": "Upgrading the insulation will give us more bang for our buck than replacing the office furniture."
+    },
+    {
+      "term": "all over but the shouting",
+      "meaning": "essentially decided or finished, with only the final reaction remaining",
+      "example": "Once the last major client signed, the sales contest was all over but the shouting."
+    },
+    {
+      "term": "put lipstick on a pig",
+      "meaning": "make superficial improvements to something that is still fundamentally flawed",
+      "example": "Changing the colors without fixing the broken checkout flow would just put lipstick on a pig."
+    },
+    {
+      "term": "like herding cats",
+      "meaning": "extremely difficult to coordinate because everyone acts independently",
+      "example": "Scheduling twelve busy executives for one meeting was like herding cats."
+    },
+    {
+      "term": "close enough for government work",
+      "meaning": "acceptable despite being imperfect, usually said jokingly or sarcastically",
+      "example": "The shelf is slightly uneven, but for a garage project, it's close enough for government work."
+    }
+  ]
+}
