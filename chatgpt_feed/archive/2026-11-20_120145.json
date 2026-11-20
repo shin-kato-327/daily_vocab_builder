@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "otiose",
+      "meaning": "serving no useful purpose or producing no practical result",
+      "example": "Once the dashboard automated the calculation, the manual weekly spreadsheet became otiose."
+    },
+    {
+      "term": "advertent",
+      "meaning": "fully attentive to or aware of something",
+      "example": "Please remain advertent to small changes in the contract language before signing."
+    },
+    {
+      "term": "sedulous",
+      "meaning": "showing steady care, effort, and persistence",
+      "example": "Her sedulous follow-up kept the complicated partnership moving toward approval."
+    },
+    {
+      "term": "ulterior",
+      "meaning": "existing beyond what is openly stated, often as a hidden motive",
+      "example": "He offered the introduction without any ulterior motive or expectation of a favor."
+    },
+    {
+      "term": "lachrymose",
+      "meaning": "given to tears or expressing excessive sadness",
+      "example": "The documentary avoids a lachrymose tone even when it covers painful events."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "let's not get ahead of ourselves",
+      "meaning": "let's avoid planning for a result before the necessary earlier steps are complete",
+      "example": "The pilot looks promising, but let's not get ahead of ourselves before we see the full data."
+    },
+    {
+      "term": "goose the numbers",
+      "meaning": "to give figures a boost, sometimes through artificial or questionable methods",
+      "example": "A short-term discount might goose the numbers this quarter without improving retention."
+    },
+    {
+      "term": "do with that what you will",
+      "meaning": "use or interpret the information however you think is appropriate",
+      "example": "The competitor just cut its prices by twenty percent; do with that what you will."
+    },
+    {
+      "term": "put a bug in your ear",
+      "meaning": "to quietly give someone an idea, hint, or useful piece of information",
+      "example": "Let me put a bug in your ear: the operations team may be hiring next month."
+    },
+    {
+      "term": "pick up what I'm putting down",
+      "meaning": "to understand the point or suggestion someone is making indirectly",
+      "example": "We could finish early if everyone stayed focused, if you pick up what I'm putting down."
+    }
+  ]
+}
