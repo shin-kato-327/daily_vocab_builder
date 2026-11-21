@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "multifarious",
+      "meaning": "having many different types, parts, or forms",
+      "example": "The project manager kept the multifarious requests organized in a single prioritized backlog."
+    },
+    {
+      "term": "demurral",
+      "meaning": "an expression of disagreement, hesitation, or objection",
+      "example": "Despite her initial demurral, she agreed to lead the presentation after reviewing the scope."
+    },
+    {
+      "term": "preponderant",
+      "meaning": "greater in influence, importance, amount, or weight",
+      "example": "Customer retention was the preponderant factor in our decision to improve onboarding first."
+    },
+    {
+      "term": "superfluity",
+      "meaning": "an unnecessary or excessive amount of something",
+      "example": "The editor removed a superfluity of technical details that obscured the main recommendation."
+    },
+    {
+      "term": "underinclusive",
+      "meaning": "leaving out some people or cases that logically should be included",
+      "example": "The reimbursement policy was underinclusive because it covered flights but ignored required ground transportation."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "put on the back burner",
+      "meaning": "to postpone something so a more urgent matter can receive attention",
+      "example": "We put the website redesign on the back burner until the checkout issue was fixed."
+    },
+    {
+      "term": "full-court press",
+      "meaning": "an intense, all-out effort to achieve a goal",
+      "example": "The sales team launched a full-court press to close the remaining deals before quarter-end."
+    },
+    {
+      "term": "the whole ball of wax",
+      "meaning": "everything involved in a situation or undertaking",
+      "example": "The proposal covers the software, training, support, and the whole ball of wax."
+    },
+    {
+      "term": "loaded for bear",
+      "meaning": "fully prepared and equipped for a difficult challenge or confrontation",
+      "example": "She arrived at the budget meeting loaded for bear, with forecasts and backup data for every request."
+    },
+    {
+      "term": "off like a shot",
+      "meaning": "leaving or starting very quickly and suddenly",
+      "example": "As soon as the client approved the plan, the implementation team was off like a shot."
+    }
+  ]
+}
