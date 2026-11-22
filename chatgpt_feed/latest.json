@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "multifarious",
-      "meaning": "having many different types, parts, or forms",
-      "example": "The project manager kept the multifarious requests organized in a single prioritized backlog."
+      "term": "concordant",
+      "meaning": "in agreement or consistent with something else",
+      "example": "The survey results were concordant with what the support team had been hearing from customers."
     },
     {
-      "term": "demurral",
-      "meaning": "an expression of disagreement, hesitation, or objection",
-      "example": "Despite her initial demurral, she agreed to lead the presentation after reviewing the scope."
+      "term": "disconfirming",
+      "meaning": "showing that a belief, theory, or expectation may be false",
+      "example": "Before approving the proposal, the director asked the team to look for disconfirming evidence."
     },
     {
-      "term": "preponderant",
-      "meaning": "greater in influence, importance, amount, or weight",
-      "example": "Customer retention was the preponderant factor in our decision to improve onboarding first."
+      "term": "administrability",
+      "meaning": "the quality of being practical to manage, apply, or enforce",
+      "example": "The committee favored the simpler policy because of its greater administrability."
     },
     {
-      "term": "superfluity",
-      "meaning": "an unnecessary or excessive amount of something",
-      "example": "The editor removed a superfluity of technical details that obscured the main recommendation."
+      "term": "commensurability",
+      "meaning": "the ability to compare things using a shared standard or measure",
+      "example": "Different reporting methods made the commensurability of the two teams' results difficult."
     },
     {
-      "term": "underinclusive",
-      "meaning": "leaving out some people or cases that logically should be included",
-      "example": "The reimbursement policy was underinclusive because it covered flights but ignored required ground transportation."
+      "term": "exactitude",
+      "meaning": "great precision and careful accuracy",
+      "example": "The contract language must be drafted with exactitude to avoid conflicting interpretations."
     }
   ],
   "phrases": [
     {
-      "term": "put on the back burner",
-      "meaning": "to postpone something so a more urgent matter can receive attention",
-      "example": "We put the website redesign on the back burner until the checkout issue was fixed."
+      "term": "let me sleep on it",
+      "meaning": "give me until later to think carefully before deciding",
+      "example": "That's a significant offer, so let me sleep on it and get back to you tomorrow."
     },
     {
-      "term": "full-court press",
-      "meaning": "an intense, all-out effort to achieve a goal",
-      "example": "The sales team launched a full-court press to close the remaining deals before quarter-end."
+      "term": "that's a hard pass",
+      "meaning": "that is something I definitely refuse or reject",
+      "example": "A three-hour meeting with no agenda? That's a hard pass for me."
     },
     {
-      "term": "the whole ball of wax",
-      "meaning": "everything involved in a situation or undertaking",
-      "example": "The proposal covers the software, training, support, and the whole ball of wax."
+      "term": "I spoke too soon",
+      "meaning": "what I just said turned out to be wrong because the situation changed",
+      "example": "I said the traffic was clearing, but I spoke too soon—we just hit another backup."
     },
     {
-      "term": "loaded for bear",
-      "meaning": "fully prepared and equipped for a difficult challenge or confrontation",
-      "example": "She arrived at the budget meeting loaded for bear, with forecasts and backup data for every request."
+      "term": "let's leave it at that",
+      "meaning": "let's end the discussion without adding more details or argument",
+      "example": "We clearly remember the conversation differently, so let's leave it at that."
     },
     {
-      "term": "off like a shot",
-      "meaning": "leaving or starting very quickly and suddenly",
-      "example": "As soon as the client approved the plan, the implementation team was off like a shot."
+      "term": "you do the math",
+      "meaning": "draw the obvious conclusion from the facts provided",
+      "example": "They doubled the workload but kept the same deadline—you do the math."
     }
   ]
 }
