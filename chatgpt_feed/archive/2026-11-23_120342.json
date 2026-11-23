@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "evanescent",
+      "meaning": "lasting for only a short time and quickly fading away",
+      "example": "The excitement around the announcement was evanescent, so we followed up with a concrete plan."
+    },
+    {
+      "term": "lacuna",
+      "meaning": "a missing part or gap in information, reasoning, or a document",
+      "example": "The audit uncovered a lacuna in our policy for handling temporary contractors."
+    },
+    {
+      "term": "tantamount",
+      "meaning": "equivalent in effect or seriousness to something else",
+      "example": "Ignoring the security warning would be tantamount to accepting the risk."
+    },
+    {
+      "term": "risible",
+      "meaning": "so unreasonable or absurd that it deserves to be laughed at",
+      "example": "The vendor's claim that the migration required no testing was risible."
+    },
+    {
+      "term": "captious",
+      "meaning": "inclined to find fault or raise trivial objections",
+      "example": "The review became captious when the discussion shifted from real risks to minor wording preferences."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "beat someone to the punch",
+      "meaning": "to act or finish before someone else has the chance",
+      "example": "I planned to suggest a shorter meeting, but Maya beat me to the punch."
+    },
+    {
+      "term": "bust your chops",
+      "meaning": "to tease, criticize, or pressure someone, often in a playful way",
+      "example": "I'm just busting your chops about the typo; the report looks great."
+    },
+    {
+      "term": "buy a lemon",
+      "meaning": "to purchase something that turns out to be defective or unreliable",
+      "example": "Get the car inspected first so you don't buy a lemon."
+    },
+    {
+      "term": "batten down the hatches",
+      "meaning": "to prepare for trouble, heavy pressure, or a difficult situation",
+      "example": "We need to batten down the hatches before the holiday traffic hits."
+    },
+    {
+      "term": "fair and square",
+      "meaning": "honestly and according to the rules",
+      "example": "They won the contract fair and square by submitting the strongest proposal."
+    }
+  ]
+}
