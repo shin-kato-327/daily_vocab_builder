@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "evanescent",
-      "meaning": "lasting for only a short time and quickly fading away",
-      "example": "The excitement around the announcement was evanescent, so we followed up with a concrete plan."
+      "term": "parsimony",
+      "meaning": "extreme unwillingness to spend money or use resources",
+      "example": "The budget showed such parsimony that the team could not replace its failing equipment."
     },
     {
-      "term": "lacuna",
-      "meaning": "a missing part or gap in information, reasoning, or a document",
-      "example": "The audit uncovered a lacuna in our policy for handling temporary contractors."
+      "term": "jettison",
+      "meaning": "to discard something that is no longer useful or is holding you back",
+      "example": "We jettisoned the complicated approval step to speed up routine purchases."
     },
     {
-      "term": "tantamount",
-      "meaning": "equivalent in effect or seriousness to something else",
-      "example": "Ignoring the security warning would be tantamount to accepting the risk."
+      "term": "acquisitive",
+      "meaning": "strongly interested in obtaining and owning more things",
+      "example": "The acquisitive company bought three smaller competitors in a single year."
     },
     {
-      "term": "risible",
-      "meaning": "so unreasonable or absurd that it deserves to be laughed at",
-      "example": "The vendor's claim that the migration required no testing was risible."
+      "term": "redolent",
+      "meaning": "strongly suggestive or reminiscent of something",
+      "example": "The renovated lobby is redolent of the building's midcentury past."
     },
     {
-      "term": "captious",
-      "meaning": "inclined to find fault or raise trivial objections",
-      "example": "The review became captious when the discussion shifted from real risks to minor wording preferences."
+      "term": "venal",
+      "meaning": "willing to act dishonestly in exchange for money or personal gain",
+      "example": "The investigation exposed a venal official who accepted payments from contractors."
     }
   ],
   "phrases": [
     {
-      "term": "beat someone to the punch",
-      "meaning": "to act or finish before someone else has the chance",
-      "example": "I planned to suggest a shorter meeting, but Maya beat me to the punch."
+      "term": "be for real",
+      "meaning": "used to express disbelief or ask someone to be serious",
+      "example": "You paid that much for parking? Be for real."
     },
     {
-      "term": "bust your chops",
-      "meaning": "to tease, criticize, or pressure someone, often in a playful way",
-      "example": "I'm just busting your chops about the typo; the report looks great."
+      "term": "run it by me",
+      "meaning": "tell me an idea or plan so I can consider it",
+      "example": "Run it by me before you send the proposal to the client."
     },
     {
-      "term": "buy a lemon",
-      "meaning": "to purchase something that turns out to be defective or unreliable",
-      "example": "Get the car inspected first so you don't buy a lemon."
+      "term": "in the same boat",
+      "meaning": "in the same difficult or inconvenient situation as someone else",
+      "example": "None of us knows the new system yet, so we're all in the same boat."
     },
     {
-      "term": "batten down the hatches",
-      "meaning": "to prepare for trouble, heavy pressure, or a difficult situation",
-      "example": "We need to batten down the hatches before the holiday traffic hits."
+      "term": "it tracks",
+      "meaning": "it makes sense or is consistent with what is already known",
+      "example": "He missed the early meeting again, which tracks with his usual schedule."
     },
     {
-      "term": "fair and square",
-      "meaning": "honestly and according to the rules",
-      "example": "They won the contract fair and square by submitting the strongest proposal."
+      "term": "put me on",
+      "meaning": "introduce me to or recommend something worthwhile",
+      "example": "Maya put me on to a great little taco place near the office."
     }
   ]
 }

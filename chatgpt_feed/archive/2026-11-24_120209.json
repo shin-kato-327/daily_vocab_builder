@@ -1,0 +1,56 @@
+{
+  "words": [
+    {
+      "term": "parsimony",
+      "meaning": "extreme unwillingness to spend money or use resources",
+      "example": "The budget showed such parsimony that the team could not replace its failing equipment."
+    },
+    {
+      "term": "jettison",
+      "meaning": "to discard something that is no longer useful or is holding you back",
+      "example": "We jettisoned the complicated approval step to speed up routine purchases."
+    },
+    {
+      "term": "acquisitive",
+      "meaning": "strongly interested in obtaining and owning more things",
+      "example": "The acquisitive company bought three smaller competitors in a single year."
+    },
+    {
+      "term": "redolent",
+      "meaning": "strongly suggestive or reminiscent of something",
+      "example": "The renovated lobby is redolent of the building's midcentury past."
+    },
+    {
+      "term": "venal",
+      "meaning": "willing to act dishonestly in exchange for money or personal gain",
+      "example": "The investigation exposed a venal official who accepted payments from contractors."
+    }
+  ],
+  "phrases": [
+    {
+      "term": "be for real",
+      "meaning": "used to express disbelief or ask someone to be serious",
+      "example": "You paid that much for parking? Be for real."
+    },
+    {
+      "term": "run it by me",
+      "meaning": "tell me an idea or plan so I can consider it",
+      "example": "Run it by me before you send the proposal to the client."
+    },
+    {
+      "term": "in the same boat",
+      "meaning": "in the same difficult or inconvenient situation as someone else",
+      "example": "None of us knows the new system yet, so we're all in the same boat."
+    },
+    {
+      "term": "it tracks",
+      "meaning": "it makes sense or is consistent with what is already known",
+      "example": "He missed the early meeting again, which tracks with his usual schedule."
+    },
+    {
+      "term": "put me on",
+      "meaning": "introduce me to or recommend something worthwhile",
+      "example": "Maya put me on to a great little taco place near the office."
+    }
+  ]
+}
