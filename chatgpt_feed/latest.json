@@ -1,56 +1,56 @@
 {
   "words": [
     {
-      "term": "parsimony",
-      "meaning": "extreme unwillingness to spend money or use resources",
-      "example": "The budget showed such parsimony that the team could not replace its failing equipment."
+      "term": "acerbic",
+      "meaning": "sharp and critical in tone, often in a clever but harsh way",
+      "example": "His acerbic reply made the routine budget discussion unnecessarily tense."
     },
     {
-      "term": "jettison",
-      "meaning": "to discard something that is no longer useful or is holding you back",
-      "example": "We jettisoned the complicated approval step to speed up routine purchases."
+      "term": "endogeneity",
+      "meaning": "a situation in which a factor within a system affects both the presumed cause and the result",
+      "example": "The analyst warned that endogeneity could make the training program look more effective than it really was."
     },
     {
-      "term": "acquisitive",
-      "meaning": "strongly interested in obtaining and owning more things",
-      "example": "The acquisitive company bought three smaller competitors in a single year."
+      "term": "immiscible",
+      "meaning": "unable to mix or combine into a uniform whole",
+      "example": "The two teams had immiscible working styles until the new manager established shared routines."
     },
     {
-      "term": "redolent",
-      "meaning": "strongly suggestive or reminiscent of something",
-      "example": "The renovated lobby is redolent of the building's midcentury past."
+      "term": "logrolling",
+      "meaning": "the practice of exchanging favors or support to advance separate proposals",
+      "example": "The committee chair discouraged logrolling and asked members to judge each proposal on its own merits."
     },
     {
-      "term": "venal",
-      "meaning": "willing to act dishonestly in exchange for money or personal gain",
-      "example": "The investigation exposed a venal official who accepted payments from contractors."
+      "term": "univocal",
+      "meaning": "having only one clear meaning or interpretation",
+      "example": "The policy needs univocal language so every regional office applies it the same way."
     }
   ],
   "phrases": [
     {
-      "term": "be for real",
-      "meaning": "used to express disbelief or ask someone to be serious",
-      "example": "You paid that much for parking? Be for real."
+      "term": "a bridge too far",
+      "meaning": "a step or demand that goes beyond what is reasonable or achievable",
+      "example": "Finishing the prototype this week is realistic, but launching it too would be a bridge too far."
     },
     {
-      "term": "run it by me",
-      "meaning": "tell me an idea or plan so I can consider it",
-      "example": "Run it by me before you send the proposal to the client."
+      "term": "as luck would have it",
+      "meaning": "by chance, especially when the result is unexpectedly helpful or inconvenient",
+      "example": "As luck would have it, the client was already in town and could meet that afternoon."
     },
     {
-      "term": "in the same boat",
-      "meaning": "in the same difficult or inconvenient situation as someone else",
-      "example": "None of us knows the new system yet, so we're all in the same boat."
+      "term": "break ranks",
+      "meaning": "to stop supporting the position or behavior of a group",
+      "example": "Two board members broke ranks and voted against the proposed merger."
     },
     {
-      "term": "it tracks",
-      "meaning": "it makes sense or is consistent with what is already known",
-      "example": "He missed the early meeting again, which tracks with his usual schedule."
+      "term": "tighten the screws",
+      "meaning": "to increase pressure on someone to act or comply",
+      "example": "The lender tightened the screws after the company missed its second payment."
     },
     {
-      "term": "put me on",
-      "meaning": "introduce me to or recommend something worthwhile",
-      "example": "Maya put me on to a great little taco place near the office."
+      "term": "worth your salt",
+      "meaning": "competent and deserving of respect in your role",
+      "example": "Any support lead worth their salt knows when to escalate a customer issue."
     }
   ]
 }
